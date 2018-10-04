@@ -10,16 +10,16 @@
 using namespace std;
 
 int fib(int num) {
-    int tempPrev  = 0 , tempRes = 1 , tempNext;;
+    int prev  = 0 , res = 1 , next;;
     if( num <= 0) {
         return 0;
     }
     for (int i = 2; i <= num; i++) {
-        tempNext = tempPrev + tempRes;
-        tempPrev = tempRes;
-        tempRes = tempNext;
+        next = prev + res;
+        prev = res;
+        res = next;
     }
-    return tempRes;
+    return res;
 }
 
 int main () {
