@@ -38,6 +38,6 @@ int main() {
     for(int i =0; i < n; i++ ) {
       cin >> arr[i];
     }
-    cout << "\Length of LIS\t:\t" << maxSumIS(arr,n); 
+    cout << "\Maximum Sum Increasing Subsequence\t:\t" << maxSumIS(arr,n); 
     return 0; 
 }
