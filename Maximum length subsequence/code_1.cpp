@@ -38,6 +38,6 @@ int main() {
     for(int i =0; i < n; i++ ) {
       cin >> arr[i];
     }
-    cout << "\Length of LIS\t:\t" << lis_fun(arr,n); 
+    cout << "\Length is\t:\t" << maxLenSub(arr,n); 
     return 0; 
 }
