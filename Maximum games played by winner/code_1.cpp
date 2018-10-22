@@ -1,3 +1,10 @@
+//
+//  q1.cpp
+//  Algorithm
+//
+//  Created by Mohd Shoaib Rayeen on 17/10/18.
+//  Copyright © 2018 Shoaib Rayeen. All rights reserved.
+//
 #include <bits/stdc++.h> 
 using namespace std; 
   
