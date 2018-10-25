@@ -1,4 +1,3 @@
-/
 //  main.cpp
 //  Algorithm
 //
