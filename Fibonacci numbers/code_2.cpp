@@ -5,7 +5,7 @@
 //  Created by Mohd Shoaib Rayeen on 31/07/18.
 //  Copyright © 2018 Shoaib Rayeen. All rights reserved.
 //
-
+//This will be done using bottom-up approach
 #include<iostream>
 using namespace std;
 int fib(int num) {
