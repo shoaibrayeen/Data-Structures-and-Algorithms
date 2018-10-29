@@ -10,7 +10,7 @@
 using namespace std;
 
 int binarySearch(int* arr, int low, int high, int key) { 
-   if (r >= l) { 
+   if (high >= low) { 
         int mid = low + (high - low)/2;
         if (arr[mid] == key) {
             return mid; 
