@@ -31,7 +31,7 @@ void MatrixChainOrder(int *dim, int n) {
                 for (int k = i; k <= j-1; k++) {
                     int i_k = n*i + k - ((i+1)*(i+2)/2);
                     int k_j = n*(k+1) + j - ((k+2)*(k+3)/2);
-                    if ( i == k || i == 0) {
+                    if ( i == k) {
                         i_k = 0;
                     }
                     if( k + 1 == j ) {
