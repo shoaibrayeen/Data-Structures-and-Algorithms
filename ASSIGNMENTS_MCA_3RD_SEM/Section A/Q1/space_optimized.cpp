@@ -13,9 +13,10 @@ using namespace std;
 
 
 /*
- it'll take O(n^3)
+  it'll take O(n^3)
   array_size = size*(size - 1) / 2
-  index = size*row + column - row*(row+1)/2
+  index = size*row + column - (row+1)*(row+2)/2
+  (row+1)*(row+2)/2 -> ignoring diagonal elements and i > j elements
  */
 void MatrixChainOrder(int *dim, int n) {
     int size = n*(n-1)/2;
@@ -25,11 +26,11 @@ void MatrixChainOrder(int *dim, int n) {
         for (int  i = 1; i < n - p + 1; i++) { // i <= k < j for calculating min
             int j = i + p - 1;
             if( i <= j) {
-                int i_j = n*i + j - (i*(i+1)/2) - (i+1);
+                int i_j = n*i + j - ((i+1)*(i+2)/2);
                 minM[i_j] = INT_MAX;
                 for (int k = i; k <= j-1; k++) {
-                    int i_k = n*i + k - (i*(i+1)/2) - (i+1);
-                    int k_j = n*(k+1) + j - ((k+1)*(k+2)/2) - (k+2);
+                    int i_k = n*i + k - ((i+1)*(i+2)/2);
+                    int k_j = n*(k+1) + j - ((k+2)*(k+3)/2);
                     if ( i == k || i == 0) {
                         i_k = 0;
                     }
