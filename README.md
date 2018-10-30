@@ -49,6 +49,7 @@
 
 ### Here's some problems and their solution(s): 
 - [Binary Search](/Binary%20Search)
+- [Longest Common Prefix](/Longest%20Common%20Prefix)
 - [Maximum Contiguous Subarray Sum](/Maximum%20Subarray%20Sum)
 
 ## Backtracking
