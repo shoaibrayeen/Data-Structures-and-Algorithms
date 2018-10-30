@@ -4,7 +4,6 @@
 //
 //  Created by Mohd Shoaib Rayeen on 28/10/18.
 //  Copyright © 2018 Shoaib Rayeen. All rights reserved.
-//
 
 #include <iostream>
 using namespace std;
