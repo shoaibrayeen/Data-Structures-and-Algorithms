@@ -40,6 +40,8 @@
 
 ## Greedy Algorithms
 > A greedy algorithm, as the name suggests, always makes the choice that seems to be the best at that moment. This means that it makes a locally-optimal choice in the hope that this choice will lead to a globally-optimal solution.
+### Here's some problems and their solution(s):
+- [Dijsktra](/Dijsktra)
 
 ## Divide and Conquer
 > A typical Divide and Conquer algorithm solves a problem using following three steps.
