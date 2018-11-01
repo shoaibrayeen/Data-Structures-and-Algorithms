@@ -59,3 +59,4 @@
 
 ### Here's some problems and their solution(s): 
 - [N Queen Problem ](/N%20Queen%20Problem)
+- [Sudoku](/Sudoku)
