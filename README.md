@@ -42,6 +42,7 @@
 > A greedy algorithm, as the name suggests, always makes the choice that seems to be the best at that moment. This means that it makes a locally-optimal choice in the hope that this choice will lead to a globally-optimal solution.
 ### Here's some problems and their solution(s):
 - [Dijsktra](/Dijsktra)
+- [Minimum Sum of Product of Two Arrays](/Minimum%20Sum%20of%20Product%20of%20Two%20Arrays)
 
 ## Divide and Conquer
 > A typical Divide and Conquer algorithm solves a problem using following three steps.
