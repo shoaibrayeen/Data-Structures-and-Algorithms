@@ -47,7 +47,6 @@ int main() {
     cout << "\nEnter k\t:\t";
     int k;
     cin >> k;
-    int n = 5, k = 3; 
-    cout << "\nResult\t:\t"minproduct(a, b, n, k) << endl; 
+    cout << "\nResult\t:\t"  <<  minproduct(a, b, n, k) << endl; 
     return 0; 
 } 
