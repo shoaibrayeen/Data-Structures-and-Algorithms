@@ -1,2 +1,2 @@
-## Section A -> Completed
-## Section B -> To Do
+## Section A -> Finished
+## Section B -> Deadline -> 15th November'18
