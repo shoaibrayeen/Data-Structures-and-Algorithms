@@ -29,7 +29,7 @@ bool check( vector <string> text ,vector<string> pattern){
     int itr1 = 0;                                           // for text pointer
     int itr2 = 0;                                           // for pattern pointer
     while(itr1 < text_size && itr2 < pattern_size ) {
-        if( !pattern[itr2].compare(text[itr1]) ) {            // if matched , then increment both pointer
+        if( text[itr1].compare(pattern[itr2]) == 0 ) {            // if matched , then increment both pointer
             itr1++;
             itr2++;
         }
