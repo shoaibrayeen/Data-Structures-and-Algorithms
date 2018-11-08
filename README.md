@@ -65,4 +65,5 @@
 ### Here's some problems and their solution(s): 
 - [Combinational Sum](/Combinational%20Sum)
 - [N Queen Problem ](/N%20Queen%20Problem)
+- [Power Set in Lexicographical Order](/Power%20Set%20in%20Lexicographic%20order)
 - [Sudoku](/Sudoku)
