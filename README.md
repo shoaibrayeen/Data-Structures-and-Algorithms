@@ -56,6 +56,7 @@
 
 ### Here's some problems and their solution(s): 
 - [Binary Search](/Binary%20Search)
+- [Cubic Root of A Number](/Cubic%20Root%20of%20A%20Number)
 - [Longest Common Prefix](/Longest%20Common%20Prefix)
 - [Maximum Contiguous Subarray Sum](/Maximum%20Subarray%20Sum)
 
