@@ -43,10 +43,15 @@ int minProductSubset(int a[], int n) {
     return prod; 
 } 
   
-int main() 
-{ 
-    int a[] = { -1, -1, -2, 4, 3 }; 
-    int n = sizeof(a) / sizeof(a[0]); 
+int main()  { 
+    int n;
+    cout << "\nEnter Size\t:\t";
+    cin >> n;
+    int *a = new int[n];
+    for ( int i  = 0; i < n; i++ ) {
+       cin >> a[i];
+    }
     cout << minProductSubset(a, n); 
+    delete[] a;
     return 0; 
 }
