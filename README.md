@@ -45,7 +45,8 @@
 - [Find Minimum number of Coins](/Minimum%20number%20of%20Coins)
 - [Fractional Knapsack Problem](/Fractional%20Knapsack%20Problem)
 - [Maximize the sum of arr[i]xi](/Maximize%20the%20sum%20of%20index%20by%20muliplying%20the%20element%20at%20the%20index)
-- [Minimum Product Subset of an Array](//Minimum%20Product%20Subset%20of%20an%20Array)
+- [Maximum Product Subset of an Array](/Maximum%20Product%20Subset%20of%20an%20Array)
+- [Minimum Product Subset of an Array](/Minimum%20Product%20Subset%20of%20an%20Array)
 - [Minimum Sum of Product of Two Arrays](/Minimum%20Sum%20of%20Product%20of%20Two%20Arrays)
 
 
