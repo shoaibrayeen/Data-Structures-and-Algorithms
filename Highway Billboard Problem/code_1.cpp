@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 
-int res(int*x , int *r , int n , int M) {
+int res(int*x , int *r , int n , int M , int t) {
     int table[M+1];
     table[0] = 0;
     int j = 0;
@@ -19,12 +19,12 @@ int res(int*x , int *r , int n , int M) {
                 table[i] = table[i-1];
             }
             else {
-                if ( i <=5) {
+                if ( i <= t) {
                     table[i] = max(table[i-1] , r[j]);
 
                 }
                 else {
-                    table[i] = max(r[j] + table[i - 6] , table[i-1]);
+                    table[i] = max(r[j] + table[i - t - 1] , table[i-1]);
                 }
                 j++;
             }
@@ -43,12 +43,17 @@ int main() {
     cin >> M;
     cout << "\nEnter n\t:\t";
     cin >> n;
+    cout << "\nEnter Billboards\n";
     for ( int i = 0; i < n; i++ {
       cin >> x[i];
     }
+    cout << "\nEnter Revenues\n";
     for ( int i = 0; i < n; i++ {
       cin >> r[i];
     }
-    cout << res( x , r , n , M);
+    int t;
+    cout << "\nEnter t\t:\t";
+    cin >> t;
+    cout << res( x , r , n , M ,t);
     return 0;
 }
