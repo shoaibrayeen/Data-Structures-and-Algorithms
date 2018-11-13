@@ -13,7 +13,37 @@
 
 using namespace std;
 
-bool check( vector <string> text ,vector<string> pattern){
+bool check( vector <string> text ,vector<string> pattern) {
+     /*
+     ------------------------------------------------------------------------------------------------
+     
+     objective : checking text contains pattern or not
+     
+     ------------------------------------------------------------------------------------------------
+     input parameter : text -> File/String Containing Long Sequences
+                       pattern -> File/String Containing SubSequences
+     
+     ------------------------------------------------------------------------------------------------
+     
+     output parameter : True -> if text contains pattern
+                        False -> if text does not contain pattern
+     
+     ------------------------------------------------------------------------------------------------
+     
+     approach    :   Calculating size of both string. If text_size is less than pattern_size , then 
+                     It's not possible to search pattern in text.
+                     Otherwise -> Within a while loop [ Loop ends if either text ends or pattern ends ]
+                                  two pointers [ 1st -> text , 2nd -> pattern ]
+                                  check if element at one index is matched , then increase both pointers
+                                  otherwise just increase 1st Pointer.
+                                  
+                                  After ending to loop , if 2nd pointer is equal to text , then text contains pattern
+                                  otherwise text does not contain pattern.
+                        
+     
+     ------------------------------------------------------------------------------------------------
+     */
+    
     long text_size = text.size();                           // size of text vector
     long pattern_size = pattern.size();                     // size of pattern vector
     if( text_size  < pattern_size ) {
@@ -43,6 +73,28 @@ bool check( vector <string> text ,vector<string> pattern){
 
 
 int main() {
+     /*
+     ------------------------------------------------------------------------------------------------
+     
+     objective : main of the program
+     
+     ------------------------------------------------------------------------------------------------
+     input parameter : none
+     
+     ------------------------------------------------------------------------------------------------
+     
+     output parameter : none
+     
+     ------------------------------------------------------------------------------------------------
+     
+     approach    :   Taking input from user and Calling check function
+                     Note -> 
+                        For Text and Pattern :
+                        Enter one Event and press enter 
+                        If want to end the string -> enter -1 and press enter
+     
+     ------------------------------------------------------------------------------------------------
+     */
     vector <string> text;
     vector <string> pattern;
     cout << "\nEnter Text\n";
@@ -73,7 +125,3 @@ int main() {
 }
 
 
-/*
-input type -> enter an event and press enter
-exit -> for exiting enter -1 in new line and press enter
-*/
