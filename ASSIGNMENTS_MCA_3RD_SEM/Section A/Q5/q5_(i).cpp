@@ -106,6 +106,7 @@ int main() {
     // reading from text_file.txt and storing it in text vector
     vector <string> text;
     vector <string> pattern;
+    string temp;
     ifstream myfile1 ("text_file.txt");
     if ( myfile1 ) {
         string line;
@@ -126,7 +127,17 @@ int main() {
         myfile1.close();
     }
     else {
-        cout << "\nUnable to open text file\n";
+        cout << "\nThere's a problem in openning Text file.Kindly give input from console.Thank You!\n";
+        text = "";
+        cout << "\nEnter Text\n";
+        temp = "";
+        while(true) {
+            getline(cin , temp);
+            if (temp == "-1" ) {
+                break;
+            }
+            text.push_back(temp);
+        }
     }
     
     // reading from pattern_file.txt and storing it in pattern vector
@@ -150,18 +161,8 @@ int main() {
         myfile2.close();
     }
     else {
-        cout << "\nThere's a problem in openning file. Kindly give input from console.Thank You!\n";
-        text = "";
+        cout << "\nThere's a problem in openning Pattern file. Kindly give input from console.Thank You!\n";
         pattern = "";
-        cout << "\nEnter Text\n";
-        string temp ="";
-        while(true) {
-            getline(cin , temp);
-            if (temp == "-1" ) {
-                break;
-            }
-            text.push_back(temp);
-        }
         temp = " ";
         cout << "\nEnter Pattern\n";
         while(true) {
@@ -172,8 +173,6 @@ int main() {
             pattern.push_back(temp);
         }
     }
-    
-    
     if( check( text , pattern ) ) {
         cout<<"\nText contains Pattern\n";
     }
