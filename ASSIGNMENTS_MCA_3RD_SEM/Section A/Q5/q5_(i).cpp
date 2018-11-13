@@ -16,10 +16,40 @@
 #include<iostream>
 #include<string>
 #include<vector>
-#include <fstream>
+#include<fstream>
 using namespace std;
 
 bool check( vector <string> text ,vector<string> pattern){
+    
+    /*
+     ------------------------------------------------------------------------------------------------
+     
+     objective : checking text contains pattern or not
+     
+     ------------------------------------------------------------------------------------------------
+     input parameter : text -> File/String Containing Long Sequences
+                       pattern -> File/String Containing SubSequences
+     
+     ------------------------------------------------------------------------------------------------
+     
+     output parameter : True -> if text contains pattern
+                        False -> if text does not contain pattern
+     
+     ------------------------------------------------------------------------------------------------
+     
+     approach    :   Calculating size of both string. If text_size is less than pattern_size , then 
+                     It's not possible to search pattern in text.
+                     Otherwise -> Within a while loop [ Loop ends if either text ends or pattern ends ]
+                                  two pointers [ 1st -> text , 2nd -> pattern ]
+                                  check if element at one index is matched , then increase both pointers
+                                  otherwise just increase 1st Pointer.
+                                  
+                                  After ending to loop , if 2nd pointer is equal to text , then text contains pattern
+                                  otherwise text does not contain pattern.
+                        
+     
+     ------------------------------------------------------------------------------------------------
+     */
     long text_size = text.size();                           // size of text vector
     long pattern_size = pattern.size();                     // size of pattern vector
     if( text_size  < pattern_size ) {
@@ -49,9 +79,33 @@ bool check( vector <string> text ,vector<string> pattern){
 
 
 int main() {
+    /*
+     ------------------------------------------------------------------------------------------------
+     
+     objective : main of the program
+     
+     ------------------------------------------------------------------------------------------------
+     input parameter : none
+     
+     ------------------------------------------------------------------------------------------------
+     
+     output parameter : none
+     
+     ------------------------------------------------------------------------------------------------
+     
+     approach    :   Taking input from file [ If files are not openned , then Give input from console. ]
+                     And Calling check function
+                      Note -> 
+                        For Text and Pattern input from console:
+                        Enter one Event and press enter 
+                        If want to end the string -> enter -1 and press enter
+     
+     ------------------------------------------------------------------------------------------------
+     */
     // text_file.txt and pattern_file.txt and this program should be in the same file.
     // reading from text_file.txt and storing it in text vector
     vector <string> text;
+    vector <string> pattern;
     ifstream myfile1 ("text_file.txt");
     if ( myfile1 ) {
         string line;
@@ -76,7 +130,6 @@ int main() {
     }
     
     // reading from pattern_file.txt and storing it in pattern vector
-    vector <string> pattern;
     ifstream myfile2 ("pattern_file.txt");
     if (myfile2) {
         string line;
@@ -97,8 +150,30 @@ int main() {
         myfile2.close();
     }
     else {
-        cout << "\nUnable to open pattern file\n";
+        cout << "\nThere's a problem in openning file. Kindly give input from console.Thank You!\n";
+        text = "";
+        pattern = "";
+        cout << "\nEnter Text\n";
+        string temp ="";
+        while(true) {
+            getline(cin , temp);
+            if (temp == "-1" ) {
+                break;
+            }
+            text.push_back(temp);
+        }
+        temp = " ";
+        cout << "\nEnter Pattern\n";
+        while(true) {
+            getline(cin ,temp);
+            if (temp == "-1" ) {
+                break;
+            }
+            pattern.push_back(temp);
+        }
     }
+    
+    
     if( check( text , pattern ) ) {
         cout<<"\nText contains Pattern\n";
     }
