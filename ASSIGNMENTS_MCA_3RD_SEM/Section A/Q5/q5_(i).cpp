@@ -19,8 +19,7 @@
 #include<fstream>
 using namespace std;
 
-bool check( vector <string> text ,vector<string> pattern){
-    
+bool check( vector <string> text ,vector<string> pattern) {
     /*
      ------------------------------------------------------------------------------------------------
      
@@ -93,12 +92,9 @@ int main() {
      
      ------------------------------------------------------------------------------------------------
      
-     approach    :   Taking input from file [ If files are not openned , then Give input from console. ]
+     approach    :   Taking input from file
                      And Calling check function
-                      Note -> 
-                        For Text and Pattern input from console:
-                        Enter one Event and press enter 
-                        If want to end the string -> enter -1 and press enter
+                     
      
      ------------------------------------------------------------------------------------------------
      */
@@ -107,72 +103,39 @@ int main() {
     vector <string> text;
     vector <string> pattern;
     string temp;
-    ifstream myfile1 ("text_file.txt");
-    if ( myfile1 ) {
-        string line;
-        while ( getline (myfile1 , line) ) {
-            string temp = "";
-            for(int i = 0; i < line.length(); ++i) {
-                if( line.substr(i,3).compare(" , ") != 0) {  // getting ' , ' then store it
-                    temp += line[i];
-                }
-                else {
-                    text.push_back(temp);
-                    temp = "";
-                    i = i + 2;
-                }
-
+    ifstream myfile1;
+    myfile1.open("text_file.txt");
+    string line;
+    while ( getline (myfile1 , line) ) {
+        string temp = "";
+        for(int i = 0; i < line.length(); ++i) {
+            if( line.substr( i , 3).compare(" , ") != 0) {  // getting ' , ' then store it
+                temp += line[i];
+            }
+            else {
+                text.push_back(temp);
+                temp = "";
+                i = i + 2;
             }
         }
-        myfile1.close();
     }
-    else {
-        cout << "\nThere's a problem in openning Text file.Kindly give input from console.Thank You!\n";
-        text = "";
-        cout << "\nEnter Text\n";
-        temp = "";
-        while(true) {
-            getline(cin , temp);
-            if (temp == "-1" ) {
-                break;
-            }
-            text.push_back(temp);
-        }
-    }
-    
     // reading from pattern_file.txt and storing it in pattern vector
-    ifstream myfile2 ("pattern_file.txt");
-    if (myfile2) {
-        string line;
-        while ( getline (myfile2 , line) ) {
-            string temp = "";
-            for(int i = 0; i < line.length(); ++i) {
-                if( line.substr(i,1).compare(" , ") != 0) {   // getting ' , ' then store it
-                    temp += line[i];
-                }
-                else {
-                    pattern.push_back(temp);
-                    temp = "";
-                    i = i + 2;
-                }
-                
-            }
+    ifstream myfile2.open("pattern_file.txt");
+    string line;
+    while ( getline (myfile2 , line) ) {
+        string temp = "";
+        for(int i = 0; i < line.length(); ++i) {
+            if( line.substr(i,1).compare(" , ") != 0) {   // getting ' , ' then store it
+                temp += line[i];
+             }
+             else {
+                pattern.push_back(temp);
+                temp = "";
+                i = i + 2;
+             }
         }
-        myfile2.close();
-    }
-    else {
-        cout << "\nThere's a problem in openning Pattern file. Kindly give input from console.Thank You!\n";
-        pattern = "";
-        temp = " ";
-        cout << "\nEnter Pattern\n";
-        while(true) {
-            getline(cin ,temp);
-            if (temp == "-1" ) {
-                break;
-            }
-            pattern.push_back(temp);
-        }
-    }
+      }
+    myfile2.close();
     if( check( text , pattern ) ) {
         cout<<"\nText contains Pattern\n";
     }
