@@ -29,5 +29,6 @@
 - It takes input [ Line by Line for each Entry ] from user.
 - If you have to stop taking input , you have to enter -1 and then press enter.
 
-
-Note: At any case , if q5_(i).cpp won't open the file , kindly check file permission.
+```
+Note: At any case , if q5_(i).cpp won't open the file , It takes input from user.
+```
