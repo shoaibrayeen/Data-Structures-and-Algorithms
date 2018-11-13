@@ -30,5 +30,5 @@
 - If you have to stop taking input , you have to enter -1 and then press enter.
 
 ```
-Note: At any case , if q5_(i).cpp won't open the file , It takes input from user.
+Note: At any case , if q5_(i).cpp won't open the file , then it takes input from user.
 ```
