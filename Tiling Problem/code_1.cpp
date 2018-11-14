@@ -14,7 +14,7 @@ int tiling_problem(int num) {
     if( num <= 2) {
         return n;
     }
-    for (int i = 2; i <= num; i++) {
+    for (int i = 3; i <= num; i++) {
         next = prev + res;
         prev = res;
         res = next;
