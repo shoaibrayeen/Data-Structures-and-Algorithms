@@ -14,6 +14,7 @@
 - [Compute nCr mod p](/Compute%20nCr%20mod%20p)
 - [Count all subsequences having product less than K](/Count%20all%20subsequences%20having%20product%20less%20than%20K)
 - [Cutting a Rod](/Cutting%20a%20Rod)
+- [Delannoy Number](/Delannoy%20Number)
 - [Edit Distance](/Edit%20Distance)
 - [Highway Billboard Problem](/Highway%20Billboard%20Problem)
 - [Largest Sum Contiguous Subarray](/Largest%20Sum%20Contiguous%20Subarray)
