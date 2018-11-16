@@ -77,7 +77,7 @@ stockBuySell(price) {
 
 
 ### Here's screenshot of console.
-![Q7](/q7.png)
+![Q7](./question7.png)
 
 
 ## Another Approach - Using Divide and Conquer Technique
