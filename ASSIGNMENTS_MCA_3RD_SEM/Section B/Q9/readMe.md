@@ -55,3 +55,6 @@ mainFunction(triathlonData) {
                           
  Hence , Time Complexity is O(n log n ).                         
 ```
+
+## Screenshot to Question 9
+![Solution 9](./s9.png)
