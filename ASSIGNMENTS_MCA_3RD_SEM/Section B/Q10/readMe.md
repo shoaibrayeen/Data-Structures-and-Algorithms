@@ -65,5 +65,11 @@ mainFunction(list) {
           and O( n * n * n * log n) for Worst Case.
 ```
 
-## Screenshot to Question 10
+# Screenshot to Question 10
+
+## When Some People are Invited
 ![Solution 10](./s10.png)
+
+## When None is Invited
+![Solution 10_2](./s10_2.png)
+
