@@ -47,3 +47,7 @@ Now ,
                         
 Hence , Time Complexity is O(n log n ).                       
 ```
+
+
+## Screenshot to Question 8
+![Solution 8](./s8.png)
