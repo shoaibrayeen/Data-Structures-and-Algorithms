@@ -4,7 +4,10 @@
 
 User needs to download all the files and just execute **main.cpp** file. All the file should be in same directory.
 
-## FAQ
+## Screenshot when User runs main.cpp
+![Questions](./SectionB.png)  
+
+## Questions and Analysis Part
 
 <details>
 <summary>Question 6</summary>
@@ -328,6 +331,71 @@ mainFunction(triathlonData) {
 <details>
 <summary>Question 10</summary>
 
+```
+(Planning a party)
+  Alice wants to throw a party and is deciding whom to call. She has n (which is at least 11) people
+to choose from and she has made up a list of which pairs of these people know each other. She wants 
+to invite as many people as possible subject to the following two constraints:
+- Every person invited should know at least five other people that are invited
+- Every person invited should not know at least five other people that are invited.
+  Design an efficient algorithm for maximizing the number of people she can invite. Remember to 
+analyze the running time and correctness.
+  Hint: Maximizing the number of invitees is the same as minimizing the number of people Alice 
+doesn’t invite. Obviously Alice might not be able to invite everyone. For example, if one of the
+n people knows less than five people out of the n potential invitees then the first constraint can
+never be satisfied for that person.
+```
+
+## Pseudocode
+
+```cpp
+mainFunction(list) {
+1.  while(True) {
+2.    for i <- list.begin() to list.end() {
+3.      if degree(i) < 5 OR degree(i) > list.size() - 5 {
+4.          remove(i) // removing a person
+5.      }
+6.    }
+7.  }
+8.}
+```
+
+## Analysis of Greedy approach
+
+```
+  1. Best Case , Everyone ( or Most of them ) satisfies both condtions.
+  2. Average Case , Some of them satisfy both condtions.
+  3. Worst Case , After removing some persons , no one satisfies any condtions.
+  
+  In worst case , No one is invited because after removing some persons , a new person
+  turns up and does not satisfy the conditions.
+  
+  Since , Multimap is used for Data Struture.
+  
+  Inner for loop always runs n times. -> O(n)
+  Counting degree takes O( log n )
+  Removing a person takes O(n)
+  
+  Now , 
+      For Best Case and Average Case ,
+            Outer while loop runs constant times.
+                  Time Compexity =   c -> constant time
+                                     * O(n) -> for loop runs n times
+                                     * O( log n ) -> counting degree
+                                     * O(n) -> removing a Person
+                                 =  O( n * n * log n)
+        
+       For Worst Case ,
+            Outer while loop runs n times.
+                  Time Compexity =   n -> n times
+                                     * O(n) -> for loop runs n times
+                                     * O( log n ) -> counting degree
+                                     * O(n) -> removing a Person
+                                 =  O( n * n * n * log n)
+    
+  Hence , Time Complexity is O( n * n * log n) for Best Case and Average Case
+          and O( n * n * n * log n) for Worst Case.
+```
 
 <br>
 </details>
@@ -336,6 +404,65 @@ mainFunction(triathlonData) {
 <details>
 <summary>Question 11</summary>
 
+```
+Save Delhi City
+
+  Suppose you are Shaktimaan and you have decided to do something to save your favorite city (Delhi) 
+against the attack of Tamraj Kilvish, since no one else surprisingly seems bothered about it, and are 
+just suffering through various attacks by various different creatures.
+
+  Seeing your passion , N people of Delhi decided to come forward to try their best in saving their 
+city. Now you have decided to strategize these N people into a formation of AT LEAST K people in a 
+group. Otherwise, that group won't survive.
+
+  Let's demonstrate this by an example. Let's say that there were 10 people, and each group required 
+at least 3 people in it for its survival. Then, the following 5 groups can be made:
+
+- 10 - Single group of 10 members.
+- 7 , 3 - Two groups. One consists of 7 members, the other one of 3 members.
+- 6 , 4 - Two groups. One consists of 6 members, the other one of 4 members.
+- 5 , 5 - Two groups. One consists of 5 members, the other one of 5 members.
+- 4 , 3 , 3 - Three groups. One consists of 4 members, the other two of 3 members.
+
+  Given the value of N, and K - find out the number of ways you can form these groups (anti-squads) 
+to save Delhi city.
+
+```
+
+## Pseudocode
+
+```cpp
+saveDelhiCity( N , K ) {
+1.  if N < K AND N > 0 {
+2.    return 0
+3.  }
+4.  else if N == 0 {
+5.    return 1
+6.  }
+7.  else {
+8.    return saveDelhiCity( N - K , K ) + saveDelhiCity( N , K + 1)
+9.  }
+10.}
+```
+
+## Analysis of Recursive approach
+```
+  Since , The problem is solved using recursion so we can write the function using following equation
+        T( n , k ) = T(n - k , k) + T ( n , k + 1 )
+        T( 0 )     = 1
+  After Solving the above recurive equation ,
+        T( n , k ) = O( 2^ ( n / k ) )
+  Hence , Time Complexity is O( 2^ ( n / k ) ).
+```
 
 <br>
 </details>
+<br>
+
+## For More Details About Each Question
+- [Question 6](https://github.com/shoaibrayeen/Algorithms/tree/master/ASSIGNMENTS_MCA_3RD_SEM/Section%20B/Q6)
+- [Question 7](https://github.com/shoaibrayeen/Algorithms/tree/master/ASSIGNMENTS_MCA_3RD_SEM/Section%20B/Q7)
+- [Question 8](https://github.com/shoaibrayeen/Algorithms/tree/master/ASSIGNMENTS_MCA_3RD_SEM/Section%20B/Q8)
+- [Question 9](https://github.com/shoaibrayeen/Algorithms/tree/master/ASSIGNMENTS_MCA_3RD_SEM/Section%20B/Q9)
+- [Question 10](https://github.com/shoaibrayeen/Algorithms/tree/master/ASSIGNMENTS_MCA_3RD_SEM/Section%20B/Q10)
+- [Question 11](https://github.com/shoaibrayeen/Algorithms/tree/master/ASSIGNMENTS_MCA_3RD_SEM/Section%20B/Q11)
