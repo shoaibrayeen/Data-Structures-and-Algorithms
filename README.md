@@ -28,6 +28,7 @@ memoization.
 - [Cutting a Rod](/Cutting%20a%20Rod)
 - [Delannoy Number](/Delannoy%20Number)
 - [Edit Distance](/Edit%20Distance)
+- [Entringer Number](/Entringer%20Number)
 - [Highway Billboard Problem](/Highway%20Billboard%20Problem)
 - [Largest Sum Contiguous Subarray](/Largest%20Sum%20Contiguous%20Subarray)
 - [Longest Common Subsequence](/Longest%20Common%20Subsequence)
