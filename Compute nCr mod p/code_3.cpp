@@ -11,8 +11,6 @@ using namespace std;
 
 int binomialCoeff(int n, int k , int p ) { 
     int C[k+1]; 
-    memset(C, 0, sizeof(C)); 
-  
     C[0] = 1;
   
     for (int i = 1; i <= n; i++) {
@@ -25,7 +23,7 @@ int binomialCoeff(int n, int k , int p ) {
  
 int main () {
     cout << "\nEnter n\t:\t";
-    int number;
+    int n;
     cin >> n;
     cout << "\nEnter k\t:\t";
     int k;
