@@ -18,7 +18,7 @@ int binomialCoeff(int n, int k) {
  
 int main () {
     cout << "\nEnter n\t:\t";
-    int number;
+    int n;
     cin >> n;
     cout << "\nEnter k\t:\t";
     int k;
