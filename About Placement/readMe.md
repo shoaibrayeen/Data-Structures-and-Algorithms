@@ -9,17 +9,20 @@
 ## How to Prepare for Placement
 - For Quantitative Aptitude and Logical Reasoning -> Practice at least 10 Problems of one topic
 ```
-    Quantitative Aptitude - R.S. Aggarwal
-    Quantitative Aptitude and Logical Reasoning  - JEE Mains or MCA Entrance Notes/Books
+Quantitative Aptitude - R.S. Aggarwal
+Quantitative Aptitude and Logical Reasoning  - JEE Mains or MCA Entrance Notes/Books
 ```
 - For CS based MCQ Round , Some points should be kept in the mind.
+
 ```
-    - You should know about C language in depth.
-    - You should know Important topics from DBMS such as Normalization , Transations ,
-      SQL , Contraints , Relational Mappings etc.
-    - You should know basics about Computer Networks [ DNS , TCP , HTTPS etc. ] , 
-      Operating System [ About OS , Process Management , Memory Management etc. ] etc.
+ Like , 
+ - You should know about C language in depth.
+ - You should know Important topics from DBMS such as Normalization , Transations ,
+   SQL , Contraints , Relational Mappings etc.
+ - You should know basics about Computer Networks [ DNS , TCP , HTTPS etc. ] , 
+   Operating System [ About OS , Process Management , Memory Management etc. ] etc.
 ```
+
 - For Data Structure and Algorithms -> MIT Tutions will be one of the best sources. 
 ```
     For Algorithms -> NG Ma'am notes
@@ -27,35 +30,35 @@
 ```
 - For Beginners , Go through each Concept in depth -> [Geeksforgeeks](https://www.geeksforgeeks.org) or [HackerRank](https://www.hackerrank.com)
 ```
-    Like , If you are studying about Array , you should know some points about Array :
-            - Advantages of Array
-            - Disvantages of Array
-            - How Memory Allocated to Array
-            - When to Use Array
-            - Array is the best to use in this problem? If yes , then why?  
+  For Example , 
+  If you are studying about Array , you should know some points about Array :-
+   - Advantages of Array
+   - Disvantages of Array
+   - How Memory Allocated to Array
+   - Array is the best to solve in which type of problems? If yes , then why?  
 ```
 - After doing problems on Geeksforgeeks and HackerRank , Do Topic-wise problems either on [ InterviewBit ](https://www.interviewbit.com/practice/) or [HackerEarth](https://www.hackerearth.com/practice/)
 
 - Now , For Paper-Pen Coding , Start from Scratch.
 ```
-    As Most of companies prefer C++ for Paper-Pen Coding , So You should start writing your code(s)
-    on Paper-Pen and then on any of following plateforms.
-        For Unix Users , they should use g++.
-        For Window Users , they should use CodeBlocks.
-        For Mac Users , they should use xCode.
-    Some point should be kept in the mind :
-        - Your program should be clean and no cross/cut should be on the page.
-        - You should use Modular Programming i.e. write your code in function(s).
-        - You should use those methods which seems good for given situation.
-        - Your program should be indented.
-        - While using a variable , you should use var name wisely and related to its working
-            because you won't have much time to document the program.
-        - Either you should write assumptions that you make while coding or you should handle
-            them in your programs.
-            For Example :  As Fibonacci Number program works for positive numbers only , So You 
-                           should either code to catch negative numbers or write your assumption(s)
-                           that Your program will work only for positive numbers.
-        - Your coding style should be uniform through out the coding round(s).              
+ As Most of companies prefer C++ for Paper-Pen Coding , So You should start writing your code(s)
+ on Paper-Pen and then on any of following plateforms.
+   For Unix Users , they should use g++.
+   For Window Users , they should use CodeBlocks.
+   For Mac Users , they should use xCode.
+ Some point should be kept in the mind :
+  - Your program should be clean and no cross/cut should be on the page.
+  - You should use Modular Programming i.e. write your code in function(s).
+  - You should use those methods which seems good for given situation.
+  - Your program should be indented.
+  - While using a variable , you should use var name wisely and related to its working
+    because you won't have much time to document the program.
+  - Either you should write assumptions that you make while coding or you should handle
+    them in your programs.
+    For Example :  As Fibonacci Number program works for positive numbers only , So You 
+                   should either code to catch negative numbers or write your assumption(s)
+                   that Your program will work only for positive numbers.
+  - Your coding style should be uniform through out the coding round(s).              
 ```
 
 ```cpp
@@ -111,16 +114,19 @@ bool check() {
 }
 ```
 - You should have done some projects.
+
 ```
-    - At least 2 Projects on C , C++ , Java.
-    - One project based on Client-Server.
-    - One Full Stack Project.
-    - One Project -> Front-end in HTML , CSS and Back-end in Java/JSP/PHP
-    - [ Optional ] - One Project on any framework.
+Like , 
+ - At least 2 Projects on C , C++ , Java.
+ - One project based on Client-Server.
+ - One Full Stack Project.
+ - One Project -> Front-end in HTML , CSS and Back-end in Java/JSP/PHP
+ - [ Optional ] - One Project on any framework.
 ```
+
 - For Preparing for Interviews , Follow [Cracking The Coding Interview](https://drive.google.com/open?id=1PbXGSAj6X4yUIuQyouV5vgUQKtpCePJC) book.
 ```
-    Make a group of 5-6 students and practice for interviews after reading the book.
+Make a group of 5-6 students and practice for interviews after reading the book.
 ```
 
 ## Placement Round(s)
