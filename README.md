@@ -54,6 +54,7 @@ memoization.
 - [Size of The Subarray With Maximum Sum](/Size%20of%20The%20Subarray%20With%20Maximum%20Sum)
 - [Smallest Sum Contiguous Subarray](/Smallest%20Sum%20Contiguous%20Subarray)
 - [Subset Sum Problem](/Subset%20Sum%20Problem)
+- [Super Ugly Number](/Super%20Ugly%20Number)
 - [Tiling Problem](/Tiling%20Problem)
 - [Ugly Numbers](/Ugly%20Numbers)
   
@@ -64,7 +65,7 @@ memoization.
 <details>
 <summary>Greedy Algorithms</summary>
   
-```  
+```  /Super%20Ugly%20Number)
     A greedy algorithm, as the name suggests, always makes the choice that seems to be the 
 best at that moment. This means that it makes a locally-optimal choice in the hope that 
 this choice will lead to a globally-optimal solution.
