@@ -98,6 +98,7 @@ this choice will lead to a globally-optimal solution.
 ### Here's some problems and their solution(s):
 
 - [Binary Search](/Binary%20Search)
+- [Count Inversions in an Array](/Count%20Inversions)
 - [Cubic Root of A Number](/Cubic%20Root%20of%20A%20Number)
 - [Longest Common Prefix](/Longest%20Common%20Prefix)
 - [Maximum Contiguous Subarray Sum](/Maximum%20Subarray%20Sum)
