@@ -102,6 +102,7 @@ this choice will lead to a globally-optimal solution.
 - [Cubic Root of A Number](/Cubic%20Root%20of%20A%20Number)
 - [Longest Common Prefix](/Longest%20Common%20Prefix)
 - [Maximum Contiguous Subarray Sum](/Maximum%20Subarray%20Sum)
+- [Median of Two Sorted Arrays of Same Size](/Median%20of%20Two%20Sorted%20Arrays%20of%20Same%20Size)
 
 <br>
 </details>
