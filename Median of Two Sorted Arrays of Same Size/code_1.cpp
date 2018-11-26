@@ -9,9 +9,6 @@
 #include <iostream>
 using namespace std;
 
-
-using namespace std;
-
 int getMedian(int ar1[], int ar2[], int n){
     int i = 0;
     int j = 0;
