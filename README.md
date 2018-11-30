@@ -50,6 +50,7 @@ memoization.
 - [Maximum sum of pairs with specific difference](/Maximum%20sum%20of%20pairs%20with%20specific%20difference)
 - [Newman-Shanks-Williams Prime](/Newman-Shanks-Williams%20prime)
 - [Nth Catalan Number](/Nth%20Catalan%20Number)
+- [Palindrome Partitioning](/Palindrome%20Partitioning)
 - [Perfect Sum Problem](/Perfect%20Sum%20Problem)
 - [Permutation Coefficient](/Permutation%20Coefficient)
 - [Size of The Subarray With Maximum Sum](/Size%20of%20The%20Subarray%20With%20Maximum%20Sum)
