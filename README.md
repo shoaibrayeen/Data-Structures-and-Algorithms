@@ -34,6 +34,7 @@ memoization.
 - [Jacobsthal and Jacobsthal-Lucas numbers](/Jacobsthal%20and%20Jacobsthal-Lucas%20numbers)
 - [Largest Sum Contiguous Subarray](/Largest%20Sum%20Contiguous%20Subarray)
 - [Longest Common Subsequence](/Longest%20Common%20Subsequence)
+- [Longest Common Substring](/Longest%20Common%20Substring)
 - [Longest Increasing Subsequence](/Longest%20Increasing%20Subsequence)
 - [Longest Repeated Subsequence](/Longest%20Repeated%20Subsequence)
 - [Longest subsequence](/Longest%20subsequence)
