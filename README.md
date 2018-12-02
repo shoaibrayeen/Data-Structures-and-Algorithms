@@ -32,6 +32,7 @@ memoization.
 - [Eulerian Number](/Eulerian%20Number)
 - [Highway Billboard Problem](/Highway%20Billboard%20Problem)
 - [Jacobsthal and Jacobsthal-Lucas numbers](/Jacobsthal%20and%20Jacobsthal-Lucas%20numbers)
+- [Longest Arithmetic Progression](/Longest%20Arithmetic%20Progression)
 - [Largest Sum Contiguous Subarray](/Largest%20Sum%20Contiguous%20Subarray)
 - [Longest Common Subsequence](/Longest%20Common%20Subsequence)
 - [Longest Common Substring](/Longest%20Common%20Substring)
