@@ -25,6 +25,7 @@ memoization.
 - [Coin Change](/Coin%20Change)
 - [Compute nCr mod p](/Compute%20nCr%20mod%20p)
 - [Count all subsequences having product less than K](/Count%20all%20subsequences%20having%20product%20less%20than%20K)
+- [Count Distinct Subsequences](/Count%20Distinct%20Subsequences)
 - [Cutting a Rod](/Cutting%20a%20Rod)
 - [Delannoy Number](/Delannoy%20Number)
 - [Edit Distance](/Edit%20Distance)
