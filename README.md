@@ -49,6 +49,7 @@ memoization.
 - [Maximum path sum in a triangle](/Maximum%20path%20sum%20in%20a%20triangle)
 - [Maximum product of an increasing subsequence](/Maximum%20product%20of%20an%20increasing%20subsequence)
 - [Maximum size square sub-matrix with all 1s](/Maximum%20size%20square%20sub-matrix%20with%20all%201s)
+- [Maximum Size Subset with Given Sum](/Maximum%20Size%20Subset%20with%20Given%20Sum)
 - [Maximum Subsequence Sum](/Maximum%20subsequence%20sum)
 - [Maximum sum of pairs with specific difference](/Maximum%20sum%20of%20pairs%20with%20specific%20difference)
 - [Newman-Shanks-Williams Prime](/Newman-Shanks-Williams%20prime)
