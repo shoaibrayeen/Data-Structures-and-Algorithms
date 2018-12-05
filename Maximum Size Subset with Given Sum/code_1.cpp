@@ -31,15 +31,14 @@ int isSubsetSum(int set[], int n, int sum) {
             subset[i][j] = subset[i][j - 1];
             count[i][j] = count[i][j - 1];
             if (i >= set[j - 1]) {
-                subset[i][j] = subset[i][j] ||
-                subset[i - set[j - 1]][j - 1];
+                subset[i][j] = subset[i][j] || subset[i - set[j - 1]][j - 1];
                 
-                if (subset[i][j])
+                if (subset[i][j]) {
                     count[i][j] = max(count[i][j - 1] ,  count[i - set[j - 1]][j - 1] + 1);
+                }
             }
         }
     }
-    
     return count[sum][n];
 }
 
