@@ -1,5 +1,9 @@
-# Algorithms
-> This repository contains solutions **[ in C++ ]** of a problem using different techniques like Dynamic Programming , Greedy Algorithms , Divide and Conquer , Backtracking etc.
+---
+layout: page
+title: Algorithm Design Techniques
+permalink: /doc/Algorithms/Algorithm_Design_Techniques
+---
+  This repository contains solutions **in C++** of a problem using different techniques like Dynamic Programming , Greedy Algorithms , Divide and Conquer , Backtracking etc.
 
 ## Here's some techniques to solve different kind of problems.
 
