@@ -1,8 +1,4 @@
----
-layout: page
-title: Algorithm Design Techniques
-permalink: shoaibrayeen.github.io/Algorithms/readMe
----
+# Algorithm Design Techniques
   This repository contains solutions **in C++** of a problem using different techniques like Dynamic Programming , Greedy Algorithms , Divide and Conquer , Backtracking etc.
 
 ## Here's some techniques to solve different kind of problems.
