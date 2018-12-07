@@ -28,6 +28,7 @@ memoization.
 - [Count Distinct Subsequences](/Count%20Distinct%20Subsequences)
 - [Cutting a Rod](/Cutting%20a%20Rod)
 - [Delannoy Number](/Delannoy%20Number)
+- [Dice Throw Problem](/Dice%20Throw%20Problem)
 - [Edit Distance](/Edit%20Distance)
 - [Entringer Number](/Entringer%20Number)
 - [Eulerian Number](/Eulerian%20Number)
