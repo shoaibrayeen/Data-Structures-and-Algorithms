@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: https://github.com/shoaibrayeen/shoaibrayeen.github.io/tree/master/_layouts/page.html
 title: Algorithm Design Techniques
 permalink: /doc/Algorithms/Algorithm_Design_Techniques
 ---
