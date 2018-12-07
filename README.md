@@ -59,6 +59,7 @@ memoization.
 - [Permutation Coefficient](/Permutation%20Coefficient)
 - [Size of The Subarray With Maximum Sum](/Size%20of%20The%20Subarray%20With%20Maximum%20Sum)
 - [Smallest Sum Contiguous Subarray](/Smallest%20Sum%20Contiguous%20Subarray)
+- [Stolen Values Problem](/Stolen%20Values%20Problem)
 - [Subset Sum Problem](/Subset%20Sum%20Problem)
 - [Sum of Average of All Subsets](/Sum%20of%20Average%20of%20All%20Subsets)
 - [Super Ugly Number](/Super%20Ugly%20Number)
