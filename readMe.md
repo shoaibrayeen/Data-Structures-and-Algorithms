@@ -141,3 +141,19 @@ as it determines that the candidate cannot possibly be completed to a valid solu
 <br>
 </details>
 <br>
+
+<details>
+<summary>Miscellaneous</summary>
+  
+```  
+    Except above algorithm design techniques , here's some important
+algorithms.
+```
+
+### Here's some problems and their solution(s):
+  
+- [String Matching Algorithms](/String%20Matching%20Algorithms)
+
+<br>
+</details>
+<br>
