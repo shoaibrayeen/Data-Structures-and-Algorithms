@@ -9,7 +9,7 @@
 #include <bits/stdc++.h> 
 using namespace std; 
 
-int available[] = {1, 2, 5, 10, 20, , 50, 100, 200 , 500, 1000 , 2000}; 
+int available[] = {1, 2, 5, 10, 20, 50, 100, 200 , 500, 1000 , 2000}; 
 int n = sizeof(available)/sizeof(available[0]); 
   
 void findMin(int value) { 
