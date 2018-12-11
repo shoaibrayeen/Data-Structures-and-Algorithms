@@ -110,6 +110,7 @@ this choice will lead to a globally-optimal solution.
 - [Count Inversions in an Array](/Count%20Inversions)
 - [Cubic Root of A Number](/Cubic%20Root%20of%20A%20Number)
 - [Find Closest Number in Array](/Find%20Closest%20Number%20in%20Array)
+- [Floor in a Sorted Array](/Floor%20in%20a%20Sorted%20Array)
 - [K-th Element of Two Sorted Arrays](/K-th%20Element%20of%20Two%20Sorted%20Arrays)
 - [Longest Common Prefix](/Longest%20Common%20Prefix)
 - [Maximum Contiguous Subarray Sum](/Maximum%20Subarray%20Sum)
