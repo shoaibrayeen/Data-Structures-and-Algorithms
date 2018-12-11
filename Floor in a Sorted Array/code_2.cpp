@@ -7,9 +7,7 @@
 //
 
 #include <iostream>
-#include <string>
 using namespace std;
-#define d 256
 
 int floorSearch(int arr[], int low, int high, int x) {
     if (low > high) {
