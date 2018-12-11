@@ -7,9 +7,8 @@
 //
 
 #include <iostream>
-#include <string>
 using namespace std;
-#define d 256
+
 
 int floorSearch(int arr[], int n, int x) {
     if (x >= arr[n-1]) {
