@@ -25,6 +25,7 @@ int main() {
     cout << "\nEnter Size\t:\t";
     cin >> n;
     int arr[n];
+    cout << "\nEnter Array Elements\n";
     for( int i = 0; i < n; i++ ) {
         cin >> arr[i];
     }
