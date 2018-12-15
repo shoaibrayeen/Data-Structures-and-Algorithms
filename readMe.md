@@ -115,6 +115,7 @@ this choice will lead to a globally-optimal solution.
 - [Floor in a Sorted Array](/Floor%20in%20a%20Sorted%20Array)
 - [K-th Element of Two Sorted Arrays](/K-th%20Element%20of%20Two%20Sorted%20Arrays)
 - [Longest Common Prefix](/Longest%20Common%20Prefix)
+- [Majority Element](/Majority%20Element)
 - [Maximum Contiguous Subarray Sum](/Maximum%20Subarray%20Sum)
 - [Median of Two Sorted Arrays of Same Size](/Median%20of%20Two%20Sorted%20Arrays%20of%20Same%20Size)
 
