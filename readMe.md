@@ -41,7 +41,7 @@ memoization.
 - [Longest Common Substring](/Longest%20Common%20Substring)
 - [Longest Geometric Progression](/Longest%20Geometric%20Progression)
 - [Longest Increasing Subsequence](/Longest%20Increasing%20Subsequence)
-- [
+- [Longest Palindromic Subsequence](/Longest%20Palindromic%20Subsequence)
 - [Longest Repeated Subsequence](/Longest%20Repeated%20Subsequence)
 - [Longest subsequence](/Longest%20subsequence)
 - [Matrix Chain Multiplication](/Matrix%20Chain%20Multiplication)
