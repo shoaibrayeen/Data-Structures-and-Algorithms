@@ -139,6 +139,7 @@ as it determines that the candidate cannot possibly be completed to a valid solu
   
 - [Combinational Sum](/Combinational%20Sum)
 - [Graph Coloring Problem](/Graph%20Coloring%20Problem)
+- [Hamiltonian Cycle](/Hamiltonian%20Cycle)
 - [N Queen Problem ](/N%20Queen%20Problem)
 - [Power Set in Lexicographical Order](/Power%20Set%20in%20Lexicographic%20order)
 - [Remove Invalid Parentheses](/Remove%20Invalid%20Parentheses)
