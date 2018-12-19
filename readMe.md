@@ -120,6 +120,7 @@ this choice will lead to a globally-optimal solution.
 - [Majority Element](/Majority%20Element)
 - [Maximum Contiguous Subarray Sum](/Maximum%20Subarray%20Sum)
 - [Median of Two Sorted Arrays of Same Size](/Median%20of%20Two%20Sorted%20Arrays%20of%20Same%20Size)
+- [Rotation Count in Rotated Sorted Array](/Rotation%20Count%20in%20Rotated%20Sorted%20Array)
 
 <br>
 </details>
