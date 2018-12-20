@@ -114,6 +114,7 @@ this choice will lead to a globally-optimal solution.
 - [Find A Fixed Point in A Given Array](/Find%20a%20Fixed%20Point%20in%20a%20Given%20Array)
 - [Find A Peak Element](/Find%20A%20Peak%20Element)
 - [Find Closest Number in Array](/Find%20Closest%20Number%20in%20Array)
+- [Find the Element that appears once in a Sorted Array](/Find%20the%20Element%20that%20appears%20once%20in%20a%20Sorted%20Array)
 - [Floor in a Sorted Array](/Floor%20in%20a%20Sorted%20Array)
 - [K-th Element of Two Sorted Arrays](/K-th%20Element%20of%20Two%20Sorted%20Arrays)
 - [Longest Common Prefix](/Longest%20Common%20Prefix)
