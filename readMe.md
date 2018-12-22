@@ -56,6 +56,7 @@ memoization.
 - [Maximum Size Subset with Given Sum](/Maximum%20Size%20Subset%20with%20Given%20Sum)
 - [Maximum Subsequence Sum](/Maximum%20subsequence%20sum)
 - [Maximum sum of pairs with specific difference](/Maximum%20sum%20of%20pairs%20with%20specific%20difference)
+- [Moser-de Bruijn Sequence](/Moser-de%20Bruijn%20Sequence)
 - [Newman-Shanks-Williams Prime](/Newman-Shanks-Williams%20prime)
 - [Nth Catalan Number](/Nth%20Catalan%20Number)
 - [Palindrome Partitioning](/Palindrome%20Partitioning)
