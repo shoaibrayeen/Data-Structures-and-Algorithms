@@ -71,6 +71,7 @@ memoization.
 - [Sum of Average of All Subsets](/Sum%20of%20Average%20of%20All%20Subsets)
 - [Super Ugly Number](/Super%20Ugly%20Number)
 - [Tiling Problem](/Tiling%20Problem)
+- [Tiling with Dominoes](/Tiling%20with%20Dominoes)
 - [Ugly Numbers](/Ugly%20Numbers)
   
 <br>
