@@ -68,6 +68,7 @@ memoization.
 - [Smallest Sum Contiguous Subarray](/Smallest%20Sum%20Contiguous%20Subarray)
 - [Stolen Values Problem](/Stolen%20Values%20Problem)
 - [Subset Sum Problem](/Subset%20Sum%20Problem)
+- [Sum of All Substrings of A String Representing A Number](/Sum%20of%20All%20Substrings%20of%20A%20String%20Representing%20A%20Number)
 - [Sum of Average of All Subsets](/Sum%20of%20Average%20of%20All%20Subsets)
 - [Super Ugly Number](/Super%20Ugly%20Number)
 - [Tiling Problem](/Tiling%20Problem)
