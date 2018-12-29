@@ -147,6 +147,7 @@ as it determines that the candidate cannot possibly be completed to a valid solu
 
 ### Here's some problems and their solution(s):
   
+- [Boggle](/Boggle)
 - [Combinational Sum](/Combinational%20Sum)
 - [Graph Coloring Problem](/Graph%20Coloring%20Problem)
 - [Hamiltonian Cycle](/Hamiltonian%20Cycle)
