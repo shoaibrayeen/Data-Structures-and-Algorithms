@@ -170,6 +170,7 @@ algorithms.
 
 ### Here's some problems and their solution(s):
   
+- [Reservoir Sampling](/Reservoir%20Sampling)  
 - [String Matching Algorithms](/String%20Matching%20Algorithms)
 
 <br>
