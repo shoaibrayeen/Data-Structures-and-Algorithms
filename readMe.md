@@ -98,6 +98,7 @@ this choice will lead to a globally-optimal solution.
 - [Maximum Product Subset of an Array](/Maximum%20Product%20Subset%20of%20an%20Array)
 - [Minimum Product Subset of an Array](/Minimum%20Product%20Subset%20of%20an%20Array)
 - [Minimum Sum of Product of Two Arrays](/Minimum%20Sum%20of%20Product%20of%20Two%20Arrays)
+- [Split A Number into Maximum Composite Number](/Split%20A%20Number%20into%20Maximum%20Composite%20Number)
 
 <br>
 </details>
