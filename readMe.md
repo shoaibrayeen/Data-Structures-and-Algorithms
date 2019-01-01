@@ -97,6 +97,7 @@ this choice will lead to a globally-optimal solution.
 - [Maximize the sum of arr[i] x i](/Maximize%20the%20sum%20of%20index%20by%20muliplying%20the%20element%20at%20the%20index)
 - [Maximum Product Subset of an Array](/Maximum%20Product%20Subset%20of%20an%20Array)
 - [Minimum Product Subset of an Array](/Minimum%20Product%20Subset%20of%20an%20Array)
+- [Minimum Sum of Absolute Difference of Pairs of Two Arrays](/Minimum%20Sum%20of%20Absolute%20Difference%20of%20Pairs%20of%20Two%20Arrays)
 - [Minimum Sum of Product of Two Arrays](/Minimum%20Sum%20of%20Product%20of%20Two%20Arrays)
 - [Split A Number into Maximum Composite Number](/Split%20A%20Number%20into%20Maximum%20Composite%20Number)
 
