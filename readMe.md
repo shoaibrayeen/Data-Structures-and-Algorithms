@@ -217,7 +217,8 @@ contiguous memory locations.
     A tree whose elements have at most 2 children is called a binary tree. Since each element 
 in a binary tree can have only 2 children, we typically name them the left and right child.
 ```
-
+### Here's some problems and their solution(s):
+- [Insertion and Recursive Traversal](/DATA%20STRUCTURES/Binary%20Tree/code_1.cpp)
 <br>
 </details>
 <br>
@@ -231,7 +232,8 @@ in a binary tree can have only 2 children, we typically name them the left and r
     - The right subtree of a node contains only nodes with keys greater than the node’s key.
     - The left and right subtree each must also be a binary search tree.
 ```
-
+### Here's some problems and their solution(s):
+- [Insertion , Deletion , Search and Recursive Traversal](/DATA%20STRUCTURES/Binary%20Search%20Tree/code_1.cpp)
 <br>
 </details>
 <br>
