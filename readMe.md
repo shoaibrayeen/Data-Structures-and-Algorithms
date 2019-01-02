@@ -1,7 +1,7 @@
-# Algorithm Design Techniques
-  This repository contains solutions **in C++** of a problem using different techniques like Dynamic Programming , Greedy Algorithms , Divide and Conquer , Backtracking etc.
+# Data Structures and Algorithms
+  This repository contains data structure programs and solutions **in C++** of a problem using different techniques like Dynamic Programming , Greedy Algorithms , Divide and Conquer , Backtracking etc.
 
-## Here's some techniques to solve different kind of problems.
+## Algorithm Design Techniques
 
 <details>
 <summary>Dynamic Programming</summary>
@@ -174,6 +174,128 @@ algorithms.
   
 - [Reservoir Sampling](/Reservoir%20Sampling)  
 - [String Matching Algorithms](/String%20Matching%20Algorithms)
+
+<br>
+</details>
+<br>
+
+
+## Data Structures
+
+<details>
+<summary>Array/Vector/Matrix</summary>
+  
+```  
+    An array is a collection of items stored at contiguous memory locations. The idea is to 
+store multiple items of the same type together. This makes it easier to calculate the position
+of each element by simply adding an offset to a base value, i.e., the memory location of the 
+first element of the array (generally denoted by the name of the array).
+    Vector is Dynamic Array.
+    Matrix is 2D Array.
+```
+
+<br>
+</details>
+<br>
+
+<details>
+<summary>Linked List</summary>
+  
+```  
+    A linked list is a linear data structure, in which the elements are not stored at 
+contiguous memory locations.
+```
+
+<br>
+</details>
+<br>
+
+<details>
+<summary>Binary Tree</summary>
+  
+```  
+    A tree whose elements have at most 2 children is called a binary tree. Since each element 
+in a binary tree can have only 2 children, we typically name them the left and right child.
+```
+
+<br>
+</details>
+<br>
+
+<details>
+<summary>Binary Search Tree</summary>
+  
+```  
+    Binary Search Tree is a node-based binary tree data structure which has the following properties:
+    - The left subtree of a node contains only nodes with keys lesser than the node’s key.
+    - The right subtree of a node contains only nodes with keys greater than the node’s key.
+    - The left and right subtree each must also be a binary search tree.
+```
+
+<br>
+</details>
+<br>
+
+<details>
+<summary>Heap</summary>
+  
+```  
+    A Heap is a special Tree-based data structure in which the tree is a complete binary tree. 
+Generally, Heaps can be of two types:
+     - Max-Heap: In a Max-Heap the key present at the root node must be greatest among the keys
+            present at all of it’s children. The same property must be recursively true for all 
+            sub-trees in that Binary Tree.
+     - Min-Heap: In a Min-Heap the key present at the root node must be minimum among the keys 
+            present at all of it’s children. The same property must be recursively true for all 
+            sub-trees in that Binary Tree.
+```
+
+<br>
+</details>
+<br>
+
+<details>
+<summary>Hash Map</summary>
+  
+```  
+    Hashing is an important Data Structure which is designed to use a special function 
+called the Hash function which is used to map a given value with a particular key for 
+faster access of elements. The efficiency of mapping depends of the efficiency of the 
+hash function used.
+```
+
+<br>
+</details>
+<br>
+
+
+<details>
+<summary>Graph</summary>
+  
+```  
+    A Graph is a non-linear data structure consisting of nodes and edges. The nodes are
+sometimes also referred to as vertices and the edges are lines or arcs that connect any 
+two nodes in the graph.
+```
+
+<br>
+</details>
+<br>
+
+<details>
+<summary>Trie</summary>
+  
+```  
+    In computer science, a trie, also called digital tree, radix tree or prefix tree is a 
+kind of search tree—an ordered tree data structure used to store a dynamic set or associative 
+array where the keys are usually strings. Unlike a binary search tree, no node in the tree 
+stores the key associated with that node; instead, its position in the tree defines the key 
+with which it is associated. All the descendants of a node have a common prefix of the string
+associated with that node, and the root is associated with the empty string. Keys tend to be 
+associated with leaves, though some inner nodes may correspond to keys of interest. Hence, 
+keys are not necessarily associated with every node. For the space-optimized presentation of 
+prefix tree, see compact prefix tree.
+```
 
 <br>
 </details>
