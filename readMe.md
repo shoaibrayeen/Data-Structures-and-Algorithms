@@ -205,7 +205,8 @@ first element of the array (generally denoted by the name of the array).
     A linked list is a linear data structure, in which the elements are not stored at 
 contiguous memory locations.
 ```
-
+### Here's some problems and their solution(s):
+- [Insertion & Deletion in Singly Linked List](/DATA%20STRUCTURES/Linked%20List/code_1.cpp)
 <br>
 </details>
 <br>
