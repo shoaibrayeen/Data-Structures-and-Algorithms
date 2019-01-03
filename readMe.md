@@ -207,6 +207,7 @@ contiguous memory locations.
 ```
 ### Here's some problems and their solution(s):
 - [Insertion & Deletion in Singly Linked List](/DATA%20STRUCTURES/Linked%20List/code_1.cpp)
+- [Reverse Singly Linked List in Pairs](/DATA%20STRUCTURES/Linked%20List/code_2.cpp)
 <br>
 </details>
 <br>
@@ -235,7 +236,6 @@ in a binary tree can have only 2 children, we typically name them the left and r
 ```
 ### Here's some problems and their solution(s):
 - [Insertion , Deletion , Search and Recursive Traversal](/DATA%20STRUCTURES/Binary%20Search%20Tree/code_1.cpp)
-- [Reverse Singly Linked List in Pairs](/DATA%20STRUCTURES/Linked%20List/code_2.cpp)
 
 <br>
 </details>
