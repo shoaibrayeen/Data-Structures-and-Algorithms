@@ -194,6 +194,7 @@ first element of the array (generally denoted by the name of the array).
     Matrix is 2D Array.
 ```
 ### Here's some problems and their solution(s):
+- [Array Rearrangement by Shifting Zero to end](/DATA%20STRUCTURES/Array/Array%20Rearrangement%20by%20Shifting%20Zero%20to%20end)
 - [Move All Zeros to end of Array](/DATA%20STRUCTURES/Array/Move%20All%20Zeros%20to%20end%20of%20Array)
 <br>
 </details>
