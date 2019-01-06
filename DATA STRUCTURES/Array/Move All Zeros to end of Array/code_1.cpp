@@ -10,9 +10,6 @@
 #include <iostream>
 using namespace std;
 
-#include <iostream>
-using namespace std;
-
 void moveZerosToEnd(int arr[], int n) {
     int count = 0;
     for (int i = 0; i < n; i++) {
@@ -34,7 +31,7 @@ int main() {
     cout << "\nEnter Size\t:\t";
     cin >> n;
     int *a = new int[n];
-    cout << "\nEnter First Array Elements\n";
+    cout << "\nEnter Array Elements\n";
     for ( int i = 0; i < n; i++ ) {
         cin >> a[i];
     }
