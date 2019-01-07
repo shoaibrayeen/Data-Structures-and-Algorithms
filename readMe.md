@@ -198,6 +198,7 @@ first element of the array (generally denoted by the name of the array).
 - [Kth Smallest/Largest Element](/DATA%20STRUCTURES/Array/Kth%20Smallest%20Element)
 - [Move All Zeros to end of Array](/DATA%20STRUCTURES/Array/Move%20All%20Zeros%20to%20end%20of%20Array)
 - [Segregate 0s and 1s in an Array](/DATA%20STRUCTURES/Array/Segregate%200s%20and%201s)
+- [Segregate Even and Odd Numbers](/DATA%20STRUCTURES/Array/Segregate%20Even%20and%20Odd%20Numbers)
 <br>
 </details>
 <br>
