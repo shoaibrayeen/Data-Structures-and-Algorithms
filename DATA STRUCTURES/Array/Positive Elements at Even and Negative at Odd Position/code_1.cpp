@@ -13,7 +13,6 @@
 */
 
 #include <iostream>
-#include <unordered_map>
 using namespace std;
 
 void rearrange(int a[], int n) {
