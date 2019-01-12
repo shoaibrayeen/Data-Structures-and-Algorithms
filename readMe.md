@@ -38,6 +38,7 @@ memoization.
 - [Jacobsthal and Jacobsthal-Lucas numbers](/Jacobsthal%20and%20Jacobsthal-Lucas%20numbers)
 - [Longest Arithmetic Progression](/Longest%20Arithmetic%20Progression)
 - [Largest Sum Contiguous Subarray](/Largest%20Sum%20Contiguous%20Subarray)
+- [Longest Bitonic Subsequence](/Longest%20Bitonic%20Subsequence)
 - [Longest Common Subsequence](/Longest%20Common%20Subsequence)
 - [Longest Common Substring](/Longest%20Common%20Substring)
 - [Longest Geometric Progression](/Longest%20Geometric%20Progression)
