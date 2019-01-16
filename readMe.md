@@ -174,7 +174,7 @@ algorithms.
 
 ### Here's some problems and their solution(s):
   
-- [Dutch National Flag Algorithm](/DATA%20STRUCTURES/Array/Sort%20An%20Array%20of%200s%20-%201s%20and%202s)
+- [Dutch National Flag Algorithm](/DATA%20STRUCTURES/Array/Sort%20An%20Array%20of%200s%20-%201s%20and%202s/code_2.cpp)
 - [Reservoir Sampling](/Reservoir%20Sampling)  
 - [String Matching Algorithms](/String%20Matching%20Algorithms)
 
