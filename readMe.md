@@ -174,6 +174,7 @@ algorithms.
 
 ### Here's some problems and their solution(s):
   
+- [Dutch National Flag Algorithm](/DATA%20STRUCTURES/Array/Sort%20An%20Array%20of%200s%20-%201s%20and%202s)
 - [Reservoir Sampling](/Reservoir%20Sampling)  
 - [String Matching Algorithms](/String%20Matching%20Algorithms)
 
@@ -207,6 +208,7 @@ first element of the array (generally denoted by the name of the array).
 - [Rearrange An Array in Order - Smallest - S , Largest - L , 2nd S , 2nd L](/DATA%20STRUCTURES/Array/Rearrange%20An%20Array%20in%20A%20Specific%20Order)
 - [Segregate 0s and 1s in an Array](/DATA%20STRUCTURES/Array/Segregate%200s%20and%201s)
 - [Segregate Even and Odd Numbers](/DATA%20STRUCTURES/Array/Segregate%20Even%20and%20Odd%20Numbers)
+- [Sort An Array of 0s , 1s and 2s](/DATA%20STRUCTURES/Array/Sort%20An%20Array%20of%200s%20-%201s%20and%202s)
 <br>
 </details>
 <br>
