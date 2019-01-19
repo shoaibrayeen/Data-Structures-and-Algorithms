@@ -199,6 +199,7 @@ first element of the array (generally denoted by the name of the array).
 ### Here's some problems and their solution(s):
 - [Arrange Given Numbers to Form the Biggest Number](/DATA%20STRUCTURES/Array/Arrange%20Given%20Numbers%20to%20Form%20the%20Biggest%20Number)
 - [Array Rearrangement by Shifting Zero to end](/DATA%20STRUCTURES/Array/Array%20Rearrangement%20by%20Shifting%20Zero%20to%20end)
+- [Convert Array into Zig-Zag Fashion](/DATA%20STRUCTURES/Array/Convert%20Array%20into%20Zig-Zag%20Fashion)
 - [Elements that Occurred Only Once in An Array](/DATA%20STRUCTURES/Array/Elements%20that%20Occurred%20Only%20Once)
 - [Find The Largest Three Elements in An Array](/DATA%20STRUCTURES/Array/Find%20The%20Largest%20Three%20Elements%20in%20An%20Array)
 - [Find the Missing Number](/DATA%20STRUCTURES/Array/Find%20the%20Missing%20Number)
