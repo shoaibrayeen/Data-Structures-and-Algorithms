@@ -73,6 +73,7 @@ memoization.
 - [Sum of All Substrings of A String Representing A Number](/Sum%20of%20All%20Substrings%20of%20A%20String%20Representing%20A%20Number)
 - [Sum of Average of All Subsets](/Sum%20of%20Average%20of%20All%20Subsets)
 - [Super Ugly Number](/Super%20Ugly%20Number)
+- [Tile Stacking Problem](Tile%20Stacking%20Problem)
 - [Tiling Problem](/Tiling%20Problem)
 - [Tiling with Dominoes](/Tiling%20with%20Dominoes)
 - [Ugly Numbers](/Ugly%20Numbers)
