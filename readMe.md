@@ -305,6 +305,7 @@ two nodes in the graph.
 ```
 ### Here's some problems and their solution(s):
 - [Breadth First Search](/DATA%20STRUCTURES/Graph/Breadth%20First%20Search)
+- [Depth First Search](/DATA%20STRUCTURES/Graph/Depth%20First%20Search)
 <br>
 </details>
 <br>
