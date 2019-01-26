@@ -57,6 +57,7 @@ memoization.
 - [Maximum Size Subset with Given Sum](/Maximum%20Size%20Subset%20with%20Given%20Sum)
 - [Maximum Subsequence Sum](/Maximum%20subsequence%20sum)
 - [Maximum Sum of Pairs with Specific Difference](/Maximum%20sum%20of%20pairs%20with%20specific%20difference)
+- [Minimum Insertions to Sort An Array](/Minimum%20Insertions%20to%20Sort%20An%20Array)
 - [Minimum Partition](/Minimum%20Partition)
 - [Moser-de Bruijn Sequence](/Moser-de%20Bruijn%20Sequence)
 - [Newman-Conway Sequence](/Newman-Conway%20Sequence)
