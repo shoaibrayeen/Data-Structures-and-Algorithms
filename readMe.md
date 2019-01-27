@@ -79,7 +79,8 @@ memoization.
 - [Tiling Problem](/Tiling%20Problem)
 - [Tiling with Dominoes](/Tiling%20with%20Dominoes)
 - [Ugly Numbers](/Ugly%20Numbers)
-  
+- [Wildcard Pattern Matching](/Wildcard%20Pattern%20Matching)
+
 <br>
 </details>
 <br>
