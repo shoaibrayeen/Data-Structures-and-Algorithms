@@ -63,6 +63,7 @@ memoization.
 - [Newman-Conway Sequence](/Newman-Conway%20Sequence)
 - [Newman-Shanks-Williams Prime](/Newman-Shanks-Williams%20prime)
 - [Nth Catalan Number](/Nth%20Catalan%20Number)
+- [Optimal Strategy for a Game](/Optimal%20Strategy%20for%20a%20Game)
 - [Painting Fence Algorithm](/Painting%20Fence%20Algorithm)
 - [Palindrome Partitioning](/Palindrome%20Partitioning)
 - [Perfect Sum Problem](/Perfect%20Sum%20Problem)
