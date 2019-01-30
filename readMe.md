@@ -215,6 +215,7 @@ first element of the array (generally denoted by the name of the array).
 - [Move All Zeros to end of Array](/DATA%20STRUCTURES/Array/Move%20All%20Zeros%20to%20end%20of%20Array)
 - [Positive Elements at Even and Negative at Odd Position in An Array](/DATA%20STRUCTURES/Array/Positive%20Elements%20at%20Even%20and%20Negative%20at%20Odd%20Position)
 - [Rearrange An Array in Order - Smallest - S , Largest - L , 2nd S , 2nd L](/DATA%20STRUCTURES/Array/Rearrange%20An%20Array%20in%20A%20Specific%20Order)
+- [Replace Array Element by Multiplication of Previous and Next](/DATA%20STRUCTURES/Array/Replace%20Every%20Array%20Element)
 - [Segregate 0s and 1s in an Array](/DATA%20STRUCTURES/Array/Segregate%200s%20and%201s)
 - [Segregate Even and Odd Numbers](/DATA%20STRUCTURES/Array/Segregate%20Even%20and%20Odd%20Numbers)
 - [Shortest Un-ordered SubArray](/DATA%20STRUCTURES/Array/Shortest%20Un-ordered%20SubArray)
