@@ -10,10 +10,6 @@
 #include <iostream>
 using namespace std;
 
-int max(int a, int b, int c) {
-    return max(a, max(b, c));
-}
-
 int getMaxProd(int n) {
     if (n == 2 || n == 3) {
         return (n-1);
