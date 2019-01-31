@@ -52,6 +52,7 @@ memoization.
 - [Maximum Games Played by Winner](/Maximum%20games%20played%20by%20winner)
 - [Maximum Length Subsequence](/Maximum%20length%20subsequence)
 - [Maximum Path Sum in A Triangle](/Maximum%20path%20sum%20in%20a%20triangle)
+- [Maximum Product Cutting](/Maximum%20Product%20Cutting)
 - [Maximum Product of An Increasing Subsequence](/Maximum%20product%20of%20an%20increasing%20subsequence)
 - [Maximum Size Square Sub-Matrix with All 1s](/Maximum%20size%20square%20sub-matrix%20with%20all%201s)
 - [Maximum Size Subset with Given Sum](/Maximum%20Size%20Subset%20with%20Given%20Sum)
