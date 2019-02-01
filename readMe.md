@@ -165,6 +165,7 @@ as it determines that the candidate cannot possibly be completed to a valid solu
 - [Power Set in Lexicographical Order](/Power%20Set%20in%20Lexicographic%20order)
 - [Remove Invalid Parentheses](/Remove%20Invalid%20Parentheses)
 - [Sudoku](/Sudoku)
+- [The Knight’s Tour Problem](/The%20Knight’s%20Tour%20Problem)
 
 <br>
 </details>
