@@ -81,6 +81,7 @@ memoization.
 - [Tiling Problem](/Tiling%20Problem)
 - [Tiling with Dominoes](/Tiling%20with%20Dominoes)
 - [Ugly Numbers](/Ugly%20Numbers)
+- [Weighted Job Scheduling](/Weighted%20Job%20Scheduling)
 - [Wildcard Pattern Matching](/Wildcard%20Pattern%20Matching)
 
 <br>
