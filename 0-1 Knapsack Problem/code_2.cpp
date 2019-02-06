@@ -1,5 +1,5 @@
 //
-//  code_1.cpp
+//  code_2.cpp
 //  Algorithm
 //
 //  Created by Mohd Shoaib Rayeen on 23/11/18.
