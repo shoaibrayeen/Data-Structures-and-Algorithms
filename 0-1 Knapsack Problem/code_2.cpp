@@ -1,15 +1,18 @@
 //
-//  main.cpp
+//  code_1.cpp
 //  Algorithm
 //
-//  Created by Mohd Shoaib Rayeen on 31/07/18.
+//  Created by Mohd Shoaib Rayeen on 23/11/18.
 //  Copyright © 2018 Shoaib Rayeen. All rights reserved.
 //
 
-#include<iostream>
+
+#include <iostream>
+#include <vector>
 using namespace std;
 
-int knapSack(int W, int *wt, int *val, int n) {
+int knapSack(int W, vector<int> wt, vector<int>val) {
+    int n = int(wt.size());
     int K[n+1][W+1];
     for (int i = 0; i <= n; i++) {
         for (int j = 0; j <= W; j++) {
@@ -29,7 +32,7 @@ int main() {
     int n;
     cout << "\nNumber of items\t:\t";
     cin >> n;
-    int val[n] , wt[n];
+    vector <int> val(n) , wt(n);
     for ( int i = 0 ;i < n;i++) {
         cout << "\nEnter weight and its value for " << (i+1) << "\n";
         cin >> wt[i];
@@ -38,6 +41,7 @@ int main() {
     int w;
     cout << "\nEnter capacity of knapsack\t:\t";
     cin >> w;
-    cout << "\nThe Result is\t:\t" << knapSack(w, wt, val, n) << endl;
+    cout << "\nThe Result is\t:\t" << knapSack(w, wt, val) << endl;
     return 0;
 }
+
