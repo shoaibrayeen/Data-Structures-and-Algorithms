@@ -31,7 +31,7 @@ int minJumps(int arr[], int l, int h) {
 
 int main() {
     int n;
-    cout << "\nNumber Size\t:\t";
+    cout << "\nEnter Size\t:\t";
     cin >> n;
     int array[n];
     cout << "\nEnter Array Elements\n";
