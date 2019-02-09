@@ -61,6 +61,7 @@ memoization.
 - [Maximum Sum of Pairs with Specific Difference](/Maximum%20sum%20of%20pairs%20with%20specific%20difference)
 - [Minimum Insertions to Form a Palindrome](/Minimum%20Insertions%20to%20Form%20a%20Palindrome)
 - [Minimum Insertions to Sort An Array](/Minimum%20Insertions%20to%20Sort%20An%20Array)
+- [Minimum Number of Jumps to Reach End](/Minimum%20Number%20of%20Jumps%20to%20Reach%20End)
 - [Minimum Partition](/Minimum%20Partition)
 - [Moser-de Bruijn Sequence](/Moser-de%20Bruijn%20Sequence)
 - [Newman-Conway Sequence](/Newman-Conway%20Sequence)
