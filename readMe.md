@@ -59,6 +59,7 @@ memoization.
 - [Maximum Size Subset with Given Sum](/Maximum%20Size%20Subset%20with%20Given%20Sum)
 - [Maximum Subsequence Sum](/Maximum%20subsequence%20sum)
 - [Maximum Sum of Pairs with Specific Difference](/Maximum%20sum%20of%20pairs%20with%20specific%20difference)
+- [Minimum Cost to Fill Given Weight in A Bag](/Minimum%20Cost%20to%20Fill%20Given%20Weight%20in%20A%20Bag)
 - [Minimum Insertions to Form a Palindrome](/Minimum%20Insertions%20to%20Form%20a%20Palindrome)
 - [Minimum Insertions to Sort An Array](/Minimum%20Insertions%20to%20Sort%20An%20Array)
 - [Minimum Number of Jumps to Reach End](/Minimum%20Number%20of%20Jumps%20to%20Reach%20End)
