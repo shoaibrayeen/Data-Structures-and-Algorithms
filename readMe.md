@@ -221,6 +221,7 @@ first element of the array (generally denoted by the name of the array).
 - [Kth Smallest/Largest Element](/DATA%20STRUCTURES/Array/Kth%20Smallest%20Element)
 - [Maximize Array Sum After K Negations](/DATA%20STRUCTURES/Array/Maximize%20Array%20Sum%20After%20K%20Negations)
 - [Maximum Product Subarray](/DATA%20STRUCTURES/Array/Maximum%20Product%20Subarray)
+- [Mean and Median for Unsorted Array](/DATA%20STRUCTURES/Array/Mean%20and%20Median%20for%20Unsorted%20Array)
 - [Move All Zeros to end of Array](/DATA%20STRUCTURES/Array/Move%20All%20Zeros%20to%20end%20of%20Array)
 - [Positive Elements at Even and Negative at Odd Position in An Array](/DATA%20STRUCTURES/Array/Positive%20Elements%20at%20Even%20and%20Negative%20at%20Odd%20Position)
 - [Rearrange An Array in Order - Smallest - S , Largest - L , 2nd S , 2nd L](/DATA%20STRUCTURES/Array/Rearrange%20An%20Array%20in%20A%20Specific%20Order)
