@@ -30,6 +30,7 @@ memoization.
 - [Delannoy Number](/Delannoy%20Number)
 - [Dice Throw Problem](/Dice%20Throw%20Problem)
 - [Edit Distance](/Edit%20Distance)
+- [Egg Dropping Puzzle](/Egg%20Dropping%20Puzzle)
 - [Entringer Number](/Entringer%20Number)
 - [Eulerian Number](/Eulerian%20Number)
 - [Friends Pairing Problem](/Friends%20Pairing%20Problem)
