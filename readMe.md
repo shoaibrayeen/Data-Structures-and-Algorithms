@@ -190,6 +190,7 @@ algorithms.
 ### Here's some problems and their solution(s):
   
 - [Dutch National Flag Algorithm](/DATA%20STRUCTURES/Array/Sort%20An%20Array%20of%200s%20-%201s%20and%202s/code_2.cpp)
+- [MO’s Algorithm](/DATA%20STRUCTURES/Array/Query%20Square%20Root%20Decomposition/code_2.cpp)
 - [Reservoir Sampling](/Reservoir%20Sampling)  
 - [String Matching Algorithms](/String%20Matching%20Algorithms)
 
@@ -225,6 +226,7 @@ first element of the array (generally denoted by the name of the array).
 - [Mean and Median for Unsorted Array](/DATA%20STRUCTURES/Array/Mean%20and%20Median%20for%20Unsorted%20Array)
 - [Move All Zeros to end of Array](/DATA%20STRUCTURES/Array/Move%20All%20Zeros%20to%20end%20of%20Array)
 - [Positive Elements at Even and Negative at Odd Position in An Array](/DATA%20STRUCTURES/Array/Positive%20Elements%20at%20Even%20and%20Negative%20at%20Odd%20Position)
+- [Query Square Root Decomposition](/DATA%20STRUCTURES/Array/Query%20Square%20Root%20Decomposition)
 - [Rearrange An Array in Order - Smallest - S , Largest - L , 2nd S , 2nd L](/DATA%20STRUCTURES/Array/Rearrange%20An%20Array%20in%20A%20Specific%20Order)
 - [Replace Array Element by Multiplication of Previous and Next](/DATA%20STRUCTURES/Array/Replace%20Every%20Array%20Element)
 - [Segregate 0s and 1s in an Array](/DATA%20STRUCTURES/Array/Segregate%200s%20and%201s)
