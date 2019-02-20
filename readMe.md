@@ -214,6 +214,7 @@ first element of the array (generally denoted by the name of the array).
 ```
 ### Here's some problems and their solution(s):
 - [Arrange Given Numbers to Form the Biggest Number](/DATA%20STRUCTURES/Array/Arrange%20Given%20Numbers%20to%20Form%20the%20Biggest%20Number)
+- [Array Range Queries for Searching An Element](/DATA%20STRUCTURES/Array/Array%20Range%20Queries%20for%20Searching%20An%20Element)
 - [Array Rearrangement by Shifting Zero to end](/DATA%20STRUCTURES/Array/Array%20Rearrangement%20by%20Shifting%20Zero%20to%20end)
 - [Chocolate Distribution Problem](/DATA%20STRUCTURES/Array/Chocolate%20Distribution%20Problem)
 - [Convert Array into Zig-Zag Fashion](/DATA%20STRUCTURES/Array/Convert%20Array%20into%20Zig-Zag%20Fashion)
