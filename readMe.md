@@ -225,6 +225,7 @@ first element of the array (generally denoted by the name of the array).
 - [Maximize Array Sum After K Negations](/DATA%20STRUCTURES/Array/Maximize%20Array%20Sum%20After%20K%20Negations)
 - [Maximum Product Subarray](/DATA%20STRUCTURES/Array/Maximum%20Product%20Subarray)
 - [Mean and Median for Unsorted Array](/DATA%20STRUCTURES/Array/Mean%20and%20Median%20for%20Unsorted%20Array)
+- [Mean of Range in An Array](/DATA%20STRUCTURES/Array/Mean%20of%20Range%20in%20An%20Array)
 - [Move All Zeros to end of Array](/DATA%20STRUCTURES/Array/Move%20All%20Zeros%20to%20end%20of%20Array)
 - [Positive Elements at Even and Negative at Odd Position in An Array](/DATA%20STRUCTURES/Array/Positive%20Elements%20at%20Even%20and%20Negative%20at%20Odd%20Position)
 - [Query Square Root Decomposition](/DATA%20STRUCTURES/Array/Query%20Square%20Root%20Decomposition)
