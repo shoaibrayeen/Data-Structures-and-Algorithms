@@ -23,7 +23,7 @@ void getRangeMean(vector<int>arr, vector<Query> List) {
             sum += arr[i];
             count++;
         }
-        double mean = sum / count;
+        double mean = double(sum) / double(count);
         cout << "\nMean for ( " << L << " , " << R << " )\t:\t" << mean << "\n";
     }
     cout << endl;
