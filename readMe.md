@@ -229,6 +229,7 @@ first element of the array (generally denoted by the name of the array).
 - [Mean of Range in An Array](/DATA%20STRUCTURES/Array/Mean%20of%20Range%20in%20An%20Array)
 - [Move All Zeros to end of Array](/DATA%20STRUCTURES/Array/Move%20All%20Zeros%20to%20end%20of%20Array)
 - [Positive Elements at Even and Negative at Odd Position in An Array](/DATA%20STRUCTURES/Array/Positive%20Elements%20at%20Even%20and%20Negative%20at%20Odd%20Position)
+- [Product of Ranges in An Array](/DATA%20STRUCTURES/Array/Product%20of%20Ranges%20in%20An%20Array)
 - [Query Square Root Decomposition](/DATA%20STRUCTURES/Array/Query%20Square%20Root%20Decomposition)
 - [Rearrange An Array in Order - Smallest - S , Largest - L , 2nd S , 2nd L](/DATA%20STRUCTURES/Array/Rearrange%20An%20Array%20in%20A%20Specific%20Order)
 - [Replace Array Element by Multiplication of Previous and Next](/DATA%20STRUCTURES/Array/Replace%20Every%20Array%20Element)
