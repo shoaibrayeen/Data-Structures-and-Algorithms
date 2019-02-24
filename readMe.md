@@ -65,6 +65,7 @@ memoization.
 - [Minimum Insertions to Sort An Array](/Minimum%20Insertions%20to%20Sort%20An%20Array)
 - [Minimum Number of Jumps to Reach End](/Minimum%20Number%20of%20Jumps%20to%20Reach%20End)
 - [Minimum Partition](/Minimum%20Partition)
+- [Minimum Sum of Multiplications of N Numbers](/Minimum%20Sum%20of%20Multiplications%20of%20N%20Numbers)
 - [Moser-de Bruijn Sequence](/Moser-de%20Bruijn%20Sequence)
 - [Newman-Conway Sequence](/Newman-Conway%20Sequence)
 - [Newman-Shanks-Williams Prime](/Newman-Shanks-Williams%20prime)
