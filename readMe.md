@@ -26,6 +26,7 @@ memoization.
 - [Compute nCr mod p](/Compute%20nCr%20mod%20p)
 - [Count All Subsequences having Product Less than K](/Count%20all%20subsequences%20having%20product%20less%20than%20K)
 - [Count Distinct Subsequences](/Count%20Distinct%20Subsequences)
+- [Count Number of Ways to jump to Reach End](/Count%20Number%20of%20Ways%20to%20jump%20to%20Reach%20End)
 - [Cutting A Rod](/Cutting%20a%20Rod)
 - [Delannoy Number](/Delannoy%20Number)
 - [Dice Throw Problem](/Dice%20Throw%20Problem)
