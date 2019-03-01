@@ -226,6 +226,7 @@ first element of the array (generally denoted by the name of the array).
 - [Elements that Occurred Only Once in An Array](/DATA%20STRUCTURES/Array/Elements%20that%20Occurred%20Only%20Once)
 - [Find The Largest Three Elements in An Array](/DATA%20STRUCTURES/Array/Find%20The%20Largest%20Three%20Elements%20in%20An%20Array)
 - [Find the Missing Number](/DATA%20STRUCTURES/Array/Find%20the%20Missing%20Number)
+- [Find The Smallest Missing Number](/DATA%20STRUCTURES/Array/Find%20The%20Smallest%20Missing%20Number)
 - [Kth Smallest/Largest Element](/DATA%20STRUCTURES/Array/Kth%20Smallest%20Element)
 - [Largest SubArray with Equal Number of 1s and 0s](/DATA%20STRUCTURES/Array/Largest%20SubArray%20with%20Equal%20Number%20of%201s%20and%200s)
 - [Maximize Array Sum After K Negations](/DATA%20STRUCTURES/Array/Maximize%20Array%20Sum%20After%20K%20Negations)
