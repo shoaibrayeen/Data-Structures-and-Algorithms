@@ -231,6 +231,7 @@ first element of the array (generally denoted by the name of the array).
 - [Kth Smallest/Largest Element](/DATA%20STRUCTURES/Array/Kth%20Smallest%20Element)
 - [Largest SubArray with Equal Number of 1s and 0s](/DATA%20STRUCTURES/Array/Largest%20SubArray%20with%20Equal%20Number%20of%201s%20and%200s)
 - [Maximize Array Sum After K Negations](/DATA%20STRUCTURES/Array/Maximize%20Array%20Sum%20After%20K%20Negations)
+- [Maximum of All SubArrays of Size k](/DATA%20STRUCTURES/Array/Maximum%20of%20All%20SubArrays%20of%20Size%20k)
 - [Maximum Product Subarray](/DATA%20STRUCTURES/Array/Maximum%20Product%20Subarray)
 - [Maximum Sum Such That No Two Elements Are Adjacent](/DATA%20STRUCTURES/Array/Maximum%20Sum%20Such%20That%20No%20Two%20Elements%20Are%20Adjacent)
 - [Mean and Median for Unsorted Array](/DATA%20STRUCTURES/Array/Mean%20and%20Median%20for%20Unsorted%20Array)
