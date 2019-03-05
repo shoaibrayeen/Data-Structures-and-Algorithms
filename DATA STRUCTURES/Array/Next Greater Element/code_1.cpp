@@ -12,7 +12,7 @@ using namespace std;
 
 void printNextGreaterElement(vector<int> arr) {
     int n = int(arr.size());
-    int next , temp;
+    int next;
     cout << "\nElement\t|\tNGE\n";
     cout << "------------------\n";
     for (int i = 0; i < n; i++) {
