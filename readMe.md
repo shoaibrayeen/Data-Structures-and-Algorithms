@@ -244,6 +244,7 @@ first element of the array (generally denoted by the name of the array).
 - [Positive Elements at Even and Negative at Odd Position in An Array](/DATA%20STRUCTURES/Array/Positive%20Elements%20at%20Even%20and%20Negative%20at%20Odd%20Position)
 - [Product of Ranges in An Array](/DATA%20STRUCTURES/Array/Product%20of%20Ranges%20in%20An%20Array)
 - [Query Square Root Decomposition](/DATA%20STRUCTURES/Array/Query%20Square%20Root%20Decomposition)
+- [Range LCM Queries](/DATA%20STRUCTURES/Array/Range%20LCM%20Queries)
 - [Rearrange An Array in Order - Smallest - S , Largest - L , 2nd S , 2nd L](/DATA%20STRUCTURES/Array/Rearrange%20An%20Array%20in%20A%20Specific%20Order)
 - [Replace Array Element by Multiplication of Previous and Next](/DATA%20STRUCTURES/Array/Replace%20Every%20Array%20Element)
 - [Segregate 0s and 1s in an Array](/DATA%20STRUCTURES/Array/Segregate%200s%20and%201s)
