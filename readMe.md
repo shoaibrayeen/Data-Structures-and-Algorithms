@@ -251,6 +251,7 @@ first element of the array (generally denoted by the name of the array).
 - [Segregate Even and Odd Numbers](/DATA%20STRUCTURES/Array/Segregate%20Even%20and%20Odd%20Numbers)
 - [Shortest Un-ordered SubArray](/DATA%20STRUCTURES/Array/Shortest%20Un-ordered%20SubArray)
 - [Sort An Array of 0s , 1s and 2s](/DATA%20STRUCTURES/Array/Sort%20An%20Array%20of%200s%20-%201s%20and%202s)
+- [Total Numbers With No Repeated Digits in A Range](/DATA%20STRUCTURES/Array/Total%20Numbers%20With%20No%20Repeated%20Digits%20in%20A%20Range)
 <br>
 </details>
 <br>
