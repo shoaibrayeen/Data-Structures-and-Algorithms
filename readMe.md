@@ -142,6 +142,7 @@ this choice will lead to a globally-optimal solution.
 - [Cubic Root of A Number](/Cubic%20Root%20of%20A%20Number)
 - [Find A Fixed Point in A Given Array](/Find%20a%20Fixed%20Point%20in%20a%20Given%20Array)
 - [Find A Peak Element](/Find%20A%20Peak%20Element)
+- [Find Bitonic Point in Given Bitonic Sequence](/Find%20Bitonic%20Point%20in%20Given%20Bitonic%20Sequence)
 - [Find Closest Number in Array](/Find%20Closest%20Number%20in%20Array)
 - [Find the Element that appears once in a Sorted Array](/Find%20the%20Element%20that%20appears%20once%20in%20a%20Sorted%20Array)
 - [Floor in a Sorted Array](/Floor%20in%20a%20Sorted%20Array)
