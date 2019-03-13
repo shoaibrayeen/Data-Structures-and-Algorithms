@@ -9,10 +9,6 @@
 #include <iostream>
 using namespace std;
 
-
-#include <iostream>
-using namespace std;
-
 int lcs(string X , string Y) {
     int m = int(X.length());
     int n = int(Y.length());
