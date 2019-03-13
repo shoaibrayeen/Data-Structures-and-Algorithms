@@ -30,6 +30,7 @@ memoization.
 - [Count Number of Increasing SubSequence](/Count%20Number%20of%20Increasing%20SubSequence)
 - [Count Number of Subsets having Given XOR Value](/Count%20Number%20of%20Subsets%20having%20Given%20XOR%20Value)
 - [Count Number of Ways to jump to Reach End](/Count%20Number%20of%20Ways%20to%20jump%20to%20Reach%20End)
+- [Count Number of Ways to Reach A Given Score in A Game](/Count%20Number%20of%20Ways%20to%20Reach%20A%20Given%20Score%20in%20A%20Game)
 - [Cutting A Rod](/Cutting%20a%20Rod)
 - [Delannoy Number](/Delannoy%20Number)
 - [Dice Throw Problem](/Dice%20Throw%20Problem)
