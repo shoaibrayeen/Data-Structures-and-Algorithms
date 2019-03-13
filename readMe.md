@@ -26,6 +26,7 @@ memoization.
 - [Compute nCr mod p](/Compute%20nCr%20mod%20p)
 - [Count All Subsequences having Product Less than K](/Count%20all%20subsequences%20having%20product%20less%20than%20K)
 - [Count Distinct Subsequences](/Count%20Distinct%20Subsequences)
+- [Count of Different Ways to Express N As The Sum of 1, 3 And 4](/Count%20of%20Different%20Ways%20to%20Express%20N%20As%20The%20Sum%20of%201,%203%20And%204)
 - [Count Number of Increasing SubSequence](/Count%20Number%20of%20Increasing%20SubSequence)
 - [Count Number of Subsets having Given XOR Value](/Count%20Number%20of%20Subsets%20having%20Given%20XOR%20Value)
 - [Count Number of Ways to jump to Reach End](/Count%20Number%20of%20Ways%20to%20jump%20to%20Reach%20End)
