@@ -24,7 +24,7 @@ int main() {
     int height;
     cout << "\nEnter Height\t:\t";
     cin >> height;
-    cout << "\nTotal Balanced Binary Tree at Height" << height << "\t:\t " << countAllBalancedBinaryTree(height) << "\n";
+    cout << "\nTotal Balanced Binary Tree at Height - " << height << "\t:\t " << countAllBalancedBinaryTree(height) << "\n";
     return 0;
 }
 
