@@ -21,7 +21,8 @@ int getMaximumStolenValue(vector<int> hval) {
     if (n == 2) {
         return max(hval[0], hval[1]);
     }
-    int dp[n];    dp[0] = hval[0];
+    int dp[n];    
+    dp[0] = hval[0];
     dp[1] = max(hval[0], hval[1]);
     for (int i = 2; i<n; i++) {
         dp[i] = max(hval[i] + dp[i-2] , dp[i-1]);
