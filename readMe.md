@@ -41,6 +41,7 @@ memoization.
 - [Egg Dropping Puzzle](/Egg%20Dropping%20Puzzle)
 - [Entringer Number](/Entringer%20Number)
 - [Eulerian Number](/Eulerian%20Number)
+- [Find Maximum Possible Stolen Value From Houses](/Find%20Maximum%20Possible%20Stolen%20Value%20From%20Houses)
 - [Friends Pairing Problem](/Friends%20Pairing%20Problem)
 - [Golomb Sequence](/Golomb%20Sequence)
 - [Highway Billboard Problem](/Highway%20Billboard%20Problem)
