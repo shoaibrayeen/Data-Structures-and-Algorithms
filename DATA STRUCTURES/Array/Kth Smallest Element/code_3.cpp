@@ -10,8 +10,12 @@
 #include<climits>
 using namespace std;
 
-void swap(int *x, int *y);
 
+void swap(int *x, int *y) {
+    int temp = *x;
+    *x = *y;
+    *y = temp;
+}
 
 class MaxHeap {
     int *harr;
@@ -81,12 +85,6 @@ void MaxHeap::maxHeapify(int i) {
         swap(&harr[i], &harr[largest]);
         maxHeapify(largest);
     }
-}
-
-void swap(int *x, int *y) {
-    int temp = *x;
-    *x = *y;
-    *y = temp;
 }
 
 int kthSmallest(int arr[], int n, int k) {
