@@ -25,7 +25,7 @@ int editDist(string str1 , string str2) {
                 table[i%2][j] = table[(i-1)%2][j-1];
             }
             else {
-                table[i%2][j] = 1 + min(table[i%2][j-1] , table[(i-1)%2][j] , table[(i-1)%2][j-1]);
+                table[i%2][j] = 1 + min( min(table[i%2][j-1] , table[(i-1)%2][j] ) , table[(i-1)%2][j-1]);
             }
         }
     }
