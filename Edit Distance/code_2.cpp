@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  code_2.cpp
 //  Algorithm
 //
 //  Created by Mohd Shoaib Rayeen on 31/07/18.
@@ -10,25 +10,32 @@
 #include<string.h>
 using namespace std;
 
-int editDist(string str1 , string str2 , int m ,int n) { 
-    int table[m+1][n+1];
-    for(int i = 0 ; i <= m; i++ ) {
-        for(int j = 0; j <= n; j++ ) {
-            if ( i == 0 ) {
-                table[i][j] = j;
+int min(int x, int y, int z) {
+    return min(min(x, y), z);
+}
+
+int editDist(string str1 , string str2) {
+    int m  = int(str1.length());
+    int n  = int(str2.length());
+    int dp[m+1][n+1];
+    for (int i = 0; i <= m; i++ ) {
+        for (int j = 0; j <= n; j++ ) {
+            if (i == 0) {
+                dp[i][j] = j;
             }
-            if ( j == 0 ) {
-                table[i][j] = i;
+            else if (j == 0) {
+                dp[i][j] = i;
             }
-            if ( str1[i-1] == str2[i-1] ) {
-                table[i][j] = table[i-1][j-1];
+            else if (str1[i-1] == str2[j-1]) {
+                dp[i][j] = dp[i-1][j-1];
             }
             else {
-                table[i][j] = 1 + min(table[i][j-1] , table[i-1][j] , table[i-1][j-1]);
+                dp[i][j] = 1 + min(dp[i][j-1], dp[i-1][j], dp[i-1][j-1]);
             }
         }
     }
-    return table[m][n];
+    
+    return dp[m][n];
 }
 
 int main() {
@@ -37,6 +44,6 @@ int main() {
     cin >> s1;
     cout << "\n2nd String\t:\t";
     cin >> s2;
-    cout << "\nEdit Distance\t:\t" << editDist( s1, s2 , s1.length(), s2.length() ) << endl;
+    cout << "\nEdit Distance\t:\t" << editDist( s1, s2 ) << endl;
     return 0;
 }
