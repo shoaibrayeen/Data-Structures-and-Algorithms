@@ -27,7 +27,6 @@ int Entringer_Number(int n, int k) {
 int main() { 
     int n;
     cout << "\nEnter n\t:\t";
-    int number;
     cin >> n;
     cout << "\nEnter k\t:\t";
     int k;
