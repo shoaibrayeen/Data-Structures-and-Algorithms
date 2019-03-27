@@ -233,6 +233,7 @@ first element of the array (generally denoted by the name of the array).
 - [Count Smaller Elements On Right Side](/DATA%20STRUCTURES/Array/Count%20Smaller%20Elements%20On%20Right%20Side)
 - [Count Strictly Increasing Subarrays](/DATA%20STRUCTURES/Array/Count%20Strictly%20Increasing%20Subarrays)
 - [Elements that Occurred Only Once in An Array](/DATA%20STRUCTURES/Array/Elements%20that%20Occurred%20Only%20Once)
+- [Find The Largest Pair Sum in An Unsorted Array](/DATA%20STRUCTURES/Array/Find%20The%20Largest%20Pair%20Sum%20in%20An%20Unsorted%20Array)
 - [Find The Largest Three Elements in An Array](/DATA%20STRUCTURES/Array/Find%20The%20Largest%20Three%20Elements%20in%20An%20Array)
 - [Find the Missing Number](/DATA%20STRUCTURES/Array/Find%20the%20Missing%20Number)
 - [Find The Smallest Missing Number](/DATA%20STRUCTURES/Array/Find%20The%20Smallest%20Missing%20Number)
