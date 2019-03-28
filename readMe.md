@@ -201,6 +201,7 @@ algorithms.
 ### Here's some problems and their solution(s):
   
 - [Dutch National Flag Algorithm](/DATA%20STRUCTURES/Array/Sort%20An%20Array%20of%200s%20-%201s%20and%202s/code_2.cpp)
+- [Floyd’s Cycle detection algorithm](/DATA%20STRUCTURES/Linked%20List/Detect%20Loop%20in%20Singly%20Linked%20List/code_1.cpp)
 - [MO’s Algorithm](/DATA%20STRUCTURES/Array/Query%20Square%20Root%20Decomposition/code_2.cpp)
 - [Reservoir Sampling](/Reservoir%20Sampling)  
 - [String Matching Algorithms](/String%20Matching%20Algorithms)
@@ -272,6 +273,7 @@ first element of the array (generally denoted by the name of the array).
 contiguous memory locations.
 ```
 ### Here's some problems and their solution(s):
+- [Detect Loop in Singly Linked List](/DATA%20STRUCTURES/Linked%20List/Detect%20Loop%20in%20Singly%20Linked%20List)
 - [Insertion & Deletion in Singly Linked List](/DATA%20STRUCTURES/Linked%20List/code_1.cpp)
 - [Reverse Singly Linked List in Pairs](/DATA%20STRUCTURES/Linked%20List/code_2.cpp)
 <br>
