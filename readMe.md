@@ -205,6 +205,7 @@ algorithms.
 - [MO’s Algorithm](/DATA%20STRUCTURES/Array/Query%20Square%20Root%20Decomposition/code_2.cpp)
 - [Reservoir Sampling](/Reservoir%20Sampling)  
 - [String Matching Algorithms](/String%20Matching%20Algorithms)
+- [The Celebrity Problem](/The%20Celebrity%20Problem)
 
 <br>
 </details>
