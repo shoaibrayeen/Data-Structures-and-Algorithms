@@ -1,3 +1,11 @@
+//
+//  code_1.cpp
+//  Data Structure
+//
+//  Created by Mohd Shoaib Rayeen on 19/03/18.
+//  Copyright © 2018 Shoaib Rayeen. All rights reserved.
+//
+
 #include<iostream>
 using namespace std;
 
