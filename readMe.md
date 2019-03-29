@@ -289,7 +289,8 @@ contiguous memory locations.
 in a binary tree can have only 2 children, we typically name them the left and right child.
 ```
 ### Here's some problems and their solution(s):
-- [Insertion and Recursive Traversal](/DATA%20STRUCTURES/Binary%20Tree/code_1.cpp)
+- [Insertion and Recursive Traversal](/DATA%20STRUCTURES/Binary%20Tree/Insertion%20and%20Recursive%20Traversal)
+- [Left , Right and Boundary View](/DATA%20STRUCTURES/Binary%20Tree/Left%20,%20Right%20and%20Boundary%20View)
 <br>
 </details>
 <br>
