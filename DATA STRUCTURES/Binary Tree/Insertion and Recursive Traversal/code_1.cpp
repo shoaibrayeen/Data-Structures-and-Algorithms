@@ -1,11 +1,3 @@
-//
-//  code_1.cpp
-//  Data Structure
-//
-//  Created by Mohd Shoaib Rayeen on 19/03/18.
-//  Copyright © 2018 Shoaib Rayeen. All rights reserved.
-//
-
 #include<iostream>
 using namespace std;
 
@@ -25,7 +17,7 @@ struct bnode {
      ------------------------------------------------------------------------------------------------
      
      approach    :  structure defines a node structure which contains data ( int type ) and
-                    left and right ( bnode types for storing address of left and right elements )
+     left and right ( bnode types for storing address of left and right elements )
      
      ------------------------------------------------------------------------------------------------
      */
@@ -50,15 +42,15 @@ class btree {
      ------------------------------------------------------------------------------------------------
      
      approach    :   class defines constructor and functions which can be accessed publicly such as :-
-                     1. btree() for initializing the pointer
-                     2. insert() for insertion in binary tree
-                     3. display() for displaying binary tree
-                     6. newNode() for creating new node
-                     7. preorder() for displaying preorder of tree
-                     8. postorder() for displaying postorder of tree
-                     9. inorder() for displaying inorder of tree
-                     10. creating root node for binary tree
-                     11. arr[] for storing path and pathlen for storing length of path for every leaf node
+     1. btree() for initializing the pointer
+     2. insert() for insertion in binary tree
+     3. display() for displaying binary tree
+     6. newNode() for creating new node
+     7. preorder() for displaying preorder of tree
+     8. postorder() for displaying postorder of tree
+     9. inorder() for displaying inorder of tree
+     10. creating root node for binary tree
+     11. arr[] for storing path and pathlen for storing length of path for every leaf node
      ------------------------------------------------------------------------------------------------
      */
 public:
@@ -91,7 +83,6 @@ btree::btree() {
      ------------------------------------------------------------------------------------------------
      */
     root = NULL;
-    pathlen = 0;
 }
 bnode* btree:: newNode(int value) {
     /*
@@ -173,8 +164,6 @@ void btree::display() {
     postorder(root);
     cout << "\nPreorder\t:\t";
     preorder(root);
-    cout << "\nPossible Paths\n";
-    path(root , 0);
 }
 void btree :: postorder(bnode* root) {
     /*
@@ -192,12 +181,13 @@ void btree :: postorder(bnode* root) {
      ------------------------------------------------------------------------------------------------
      
      approach    :   calling this function recursively in following sequence :-
-                     - left , right and then value of pointer
+     - left , right and then value of pointer
      
      ------------------------------------------------------------------------------------------------
      */
-    if (root == NULL)
+    if (root == NULL) {
         return;
+    }
     postorder(root->left);
     postorder(root->right);
     cout << root->data << "\t";
@@ -219,12 +209,13 @@ void btree :: preorder(bnode* root) {
      ------------------------------------------------------------------------------------------------
      
      approach    :   calling this function recursively in following sequence :-
-                     - value of pointer , left and right
+     - value of pointer , left and right
      
      ------------------------------------------------------------------------------------------------
      */
-    if (root == NULL)
+    if (root == NULL) {
         return;
+    }
     cout << root->data << "\t";
     preorder(root->left);
     preorder(root->right);
@@ -245,12 +236,13 @@ void btree :: inorder(bnode* root) {
      ------------------------------------------------------------------------------------------------
      
      approach    :   calling this function recursively in following sequence :-
-                    - left , value of pointer and right
+     - left , value of pointer and right
      
      ------------------------------------------------------------------------------------------------
      */
-    if (root == NULL)
+    if (root == NULL) {
         return;
+    }
     preorder(root->left);
     cout << root->data << "\t";
     preorder(root->right);
@@ -259,4 +251,6 @@ void btree :: inorder(bnode* root) {
 int main() {
     btree obj;
     obj.display();
+    cout << "\n";
+    return 0;
 }
