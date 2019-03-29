@@ -13,12 +13,31 @@ using namespace std;
 
 #define N 8
 
+
+//celebrity = 2
 bool MATRIX[N][N] = {
     {0, 0, 1, 0},
     {0, 0, 1, 0},
     {0, 0, 0, 0},
     {0, 0, 1, 0}};
 
+/*
+celebrity = 1
+bool MATRIX[N][N] = {
+    {0, 1, 0, 0},
+    {0, 0, 0, 0},
+    {0, 1, 0, 0},
+    {0, 1, 0, 0}};
+   
+   
+   
+No Celebrity
+bool MATRIX[N][N] = {
+    {0, 1, 0, 0},
+    {0, 0, 1, 0},
+    {0, 1, 0, 0},
+    {0, 1, 0, 0}};    
+*/
 bool knows(int a, int b) {
     return MATRIX[a][b];
 }
@@ -34,8 +53,6 @@ int findCelebrity(int n) {
     st.pop();
     int B = st.top();
     st.pop();
-    
-    // Find a potential celevrity
     while (st.size() > 1) {
         if (knows(A, B)) {
             A = st.top();
