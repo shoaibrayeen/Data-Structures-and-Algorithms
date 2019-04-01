@@ -291,7 +291,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 ### Here's some problems and their solution(s):
 - [Insertion and Recursive Traversal](/DATA%20STRUCTURES/Binary%20Tree/Insertion%20and%20Recursive%20Traversal)
 - [Left , Right and Boundary View](/DATA%20STRUCTURES/Binary%20Tree/Left%20,%20Right%20and%20Boundary%20View)
-- [Level Order Traversal in Spiral Form]()
+- [Level Order Traversal in Spiral Form](/DATA%20STRUCTURES/Binary%20Tree/Level%20Order%20Traversal%20in%20Spiral%20Form)
 - [Reverse Level Order Traversal](/DATA%20STRUCTURES/Binary%20Tree/Reverse%20Level%20Order%20Traversal)
 <br>
 </details>
