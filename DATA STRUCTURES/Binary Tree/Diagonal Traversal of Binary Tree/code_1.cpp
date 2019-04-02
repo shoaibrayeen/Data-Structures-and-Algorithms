@@ -29,7 +29,6 @@ public:
     void inorder(bnode*);
     void printDiagonal(bnode*);
     void diagonalPrintUtil(bnode* root, int d, map<int, vector<int>> &diagonalPrint);
-    //void diagonalPrintUtil(bnode* , int , map<int , vector<int>>);
 };
 btree::btree() {
     
