@@ -291,6 +291,7 @@ contiguous memory locations.
 in a binary tree can have only 2 children, we typically name them the left and right child.
 ```
 ### Here's some problems and their solution(s):
+- [Calculate Depth of A Full Binary Tree From Preorder](/DATA%20STRUCTURES/Binary%20Tree/Calculate%20Depth%20of%20A%20Full%20Binary%20Tree%20From%20Preorder)
 - [Check if Two Trees are Mirror](/DATA%20STRUCTURES/Binary%20Tree/Check%20if%20Two%20Trees%20are%20Mirror)
 - [Density of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Density%20of%20Binary%20Tree)
 - [Diagonal Traversal of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Diagonal%20Traversal%20of%20Binary%20Tree)
