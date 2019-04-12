@@ -6,6 +6,9 @@
 //  Copyright © 2018 Shoaib Rayeen. All rights reserved.
 //
 
+#include<iostream>
+using namespace std;
+
 
 struct bnode {
     int data;
