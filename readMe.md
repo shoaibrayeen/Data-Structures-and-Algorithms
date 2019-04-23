@@ -311,6 +311,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 - [Sum of All Leaf Nodes of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20All%20Leaf%20Nodes)
 - [Sum of All Nodes in Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20All%20Nodes)
 - [Sum of Heights of All Individual Nodes in Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20Heights%20of%20All%20Individual%20Nodes)
+- [Sum of Leaf Nodes At Minimum Level](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20Leaf%20Nodes%20At%20Minimum%20Level)
 <br>
 </details>
 <br>
