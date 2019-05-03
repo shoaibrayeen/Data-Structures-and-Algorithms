@@ -10,3 +10,40 @@ We break the problem in 3 parts:
 
 ## We need to take care of one thing that nodes are not printed again. 
     The left most node is also the leaf node of the tree.
+
+
+## Left View
+```
+Input : 
+                 1
+               /   \
+              2     3
+             / \     \
+            4   5     6             
+Output : 1 2 4
+
+Input :
+        1
+      /   \
+    2       3
+      \   
+        4  
+          \
+            5
+             \
+               6
+Output :1 2 4 5 6
+```
+
+## Right View
+```
+Right view of following tree is 1 3 7 8
+
+          1
+       /     \
+     2        3
+   /   \     /  \
+  4     5   6    7
+                  \
+                   8
+ ```                
