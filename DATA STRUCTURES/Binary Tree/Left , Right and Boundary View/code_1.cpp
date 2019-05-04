@@ -188,10 +188,7 @@ void btree::display() {
     preorder(root);
     cout << "\nBoundary View\t:\t";
     boundaryView(root);
-    cout << "\nLeft View\t\t:\t";
-    leftView(root);
-    cout << "\nRight View\t\t:\t";
-    rightView(root);
+
     
 }
 void btree :: postorder(bnode* root) {
