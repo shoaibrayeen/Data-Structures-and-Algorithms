@@ -13,7 +13,6 @@ using namespace std;
 
 struct bnode {
     int data;
-    int hd;
     bnode *left;
     bnode *right;
 };
