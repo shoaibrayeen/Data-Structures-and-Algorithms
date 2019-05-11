@@ -322,6 +322,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 - [Sum of Leaf Nodes At Minimum Level](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20Leaf%20Nodes%20At%20Minimum%20Level)
 - [Top View of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Top%20View%20of%20Binary%20Tree)
 - [Vertical Order Of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Vertical%20Order%20Of%20Binary%20Tree)
+- [Vertical Sum In Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Vertical%20Sum%20In%20Binary%20Tree)
 <br>
 </details>
 <br>
