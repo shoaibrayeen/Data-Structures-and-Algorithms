@@ -303,6 +303,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 - [Density of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Density%20of%20Binary%20Tree)
 - [Diagonal Sum of A Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Diagonal%20Sum%20of%20A%20Binary%20Tree)
 - [Diagonal Traversal of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Diagonal%20Traversal%20of%20Binary%20Tree)
+- [Diameter of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Diameter%20of%20Binary%20Tree)
 - [Find All Root to Leaf Paths](/DATA%20STRUCTURES/Binary%20Tree/Find%20All%20Root%20to%20Leaf%20Paths)
 - [Find Distance Between Two Nodes](/DATA%20STRUCTURES/Binary%20Tree/Find%20Distance%20Between%20Two%20Nodes)
 - [Find Largest Subtree Sum in A Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Find%20Largest%20Subtree%20Sum)
