@@ -292,6 +292,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 ```
 ### Here's some problems and their solution(s):
 - [Calculate Depth of A Full Binary Tree From Preorder](/DATA%20STRUCTURES/Binary%20Tree/Calculate%20Depth%20of%20A%20Full%20Binary%20Tree%20From%20Preorder)
+- [Calculate Size of Tree](/DATA%20STRUCTURES/Binary%20Tree/Calculate%20Size%20of%20Tree)
 - [Check If All Leaves are At Same Level](/DATA%20STRUCTURES/Binary%20Tree/Check%20If%20All%20Leaves%20are%20At%20Same%20Level)
 - [Check If Binary Tree Has Duplicate Values](/DATA%20STRUCTURES/Binary%20Tree/Check%20If%20Binary%20Tree%20Has%20Duplicate%20Values)
 - [Check if Given Binary Tree is Sum Tree Or Not](/DATA%20STRUCTURES/Binary%20Tree/Check%20if%20Given%20Binary%20Tree%20is%20Sum%20Tree%20Or%20Not)
