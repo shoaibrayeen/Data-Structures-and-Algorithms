@@ -23,8 +23,6 @@ public:
     void insert();
     void display();
     bnode* newNode(int);
-    void preorder(bnode*);
-    void postorder(bnode*);
     void inorder(bnode*);
     void inorderIterative(bnode*);
     void inorderMorris(bnode*);
