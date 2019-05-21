@@ -317,6 +317,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 - [Nth Node in Inorder Traversal](/DATA%20STRUCTURES/Binary%20Tree/Nth%20Node%20in%20Inorder%20Traversal)
 - [Print All Full Nodes in Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Print%20All%20Full%20Nodes)
 - [Print Ancestors of A Given Node](/DATA%20STRUCTURES/Binary%20Tree/Print%20Ancestors%20of%20A%20Given%20Node)
+- [Print Level Traversal in Sorted Order](/DATA%20STRUCTURES/Binary%20Tree/Print%20Level%20Traversal%20in%20Sorted%20Order)
 - [Postorder Traversal Without Recursion And Without Stack](/DATA%20STRUCTURES/Binary%20Tree/Postorder%20Traversal)
 - [Reverse Level Order Traversal](/DATA%20STRUCTURES/Binary%20Tree/Reverse%20Level%20Order%20Traversal)
 - [Sum of All Leaf Nodes of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20All%20Leaf%20Nodes)
