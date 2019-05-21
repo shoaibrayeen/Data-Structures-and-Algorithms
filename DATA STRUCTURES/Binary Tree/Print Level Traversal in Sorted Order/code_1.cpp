@@ -47,7 +47,7 @@ void btree:: insert() {
 }
 void btree::display() {
     insert();
-    cout << "\nSorted Order\t:\t";
+    cout << "\nSorted Order\n";
     sortedLevelOrder(root);
 }
 
@@ -66,6 +66,7 @@ void btree::sortedLevelOrder(bnode* root) {
             for (set<int>::iterator it = s.begin();it != s.end(); ++it) {
                 cout << *it << "\t";
             }
+            cout << endl;
             q.push(nullptr);
             s.clear();
         }
