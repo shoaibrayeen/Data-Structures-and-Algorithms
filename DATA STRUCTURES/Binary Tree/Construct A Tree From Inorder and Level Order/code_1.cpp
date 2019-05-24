@@ -20,13 +20,10 @@ class btree {
 public:
     bnode *root;
     btree();
-    void insert();
     void display();
     void inorder(bnode*);
     bnode* newNode(int);
-    bnode* buildTree(int in[], int level[], int inStrt, int inEnd , int m);
-    int search(int arr[], int strt, int end, int value);
-    int *extrackKeys(int in[], int level[], int m, int n);
+    bnode* buildTree(int in[], int level[], int inStrt, int inEnd , int n);
 };
 btree::btree() {
     root = NULL;
@@ -38,16 +35,6 @@ bnode* btree:: newNode(int value) {
     temp->right=NULL;
     return temp;
 }
-void btree:: insert() {
-    root = newNode(7);
-    root->left = newNode(6);
-    root->right = newNode(5);
-    root->left->left = newNode(4);
-    root->left->right = newNode(3);
-    root->right->left = newNode(2);
-    root->right->right = newNode(1);
-}
-
 void btree::display() {
     insert();
     int in[]    = {4, 8, 10, 12, 14, 20, 22};
