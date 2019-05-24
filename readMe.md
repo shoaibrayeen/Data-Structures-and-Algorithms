@@ -301,6 +301,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 - [Check if Two Trees are Mirror](/DATA%20STRUCTURES/Binary%20Tree/Check%20if%20Two%20Trees%20are%20Mirror)
 - [Check Whether A Binary Tree is Complete Or Not](/DATA%20STRUCTURES/Binary%20Tree/Check%20Whether%20A%20Binary%20Tree%20is%20Complete%20Or%20Not)
 - [Check Whether A Given Binary Tree is Perfect or Not](/DATA%20STRUCTURES/Binary%20Tree/Check%20Whether%20A%20Given%20Binary%20Tree%20is%20Perfect%20or%20Not)
+- [Construct A Tree From Inorder and Level Order](/DATA%20STRUCTURES/Binary%20Tree/Construct%20A%20Tree%20From%20Inorder%20and%20Level%20Order)
 - [Construct Tree From Given Inorder and Preorder](/DATA%20STRUCTURES/Binary%20Tree/Construct%20Tree%20From%20Given%20Inorder%20and%20Preorder)
 - [Density of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Density%20of%20Binary%20Tree)
 - [Diagonal Sum of A Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Diagonal%20Sum%20of%20A%20Binary%20Tree)
