@@ -39,7 +39,6 @@ bnode* btree:: newNode(int value) {
 
 
 void btree::display() {
-    insert();
     char in[] = { 'D', 'B', 'E', 'A', 'F', 'C' };
     char pre[] = { 'A', 'B', 'D', 'E', 'C', 'F' };
     int len = sizeof(in) / sizeof(in[0]);
