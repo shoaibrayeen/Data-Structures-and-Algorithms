@@ -36,7 +36,6 @@ bnode* btree:: newNode(int value) {
     return temp;
 }
 void btree::display() {
-    insert();
     int in[]    = {4, 8, 10, 12, 14, 20, 22};
     int level[] = {20, 8, 22, 4, 12, 10, 14};
     int n = sizeof(in)/sizeof(in[0]);
