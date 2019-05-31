@@ -313,6 +313,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 - [Find Distance Between Two Nodes](/DATA%20STRUCTURES/Binary%20Tree/Find%20Distance%20Between%20Two%20Nodes)
 - [Find Largest Subtree Sum in A Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Find%20Largest%20Subtree%20Sum)
 - [Find The Deepest Node](/DATA%20STRUCTURES/Binary%20Tree/Find%20The%20Deepest%20Node)
+- [Find The Maximum Sum In A Path From Leaf To Root](/DATA%20STRUCTURES/Binary%20Tree/Find%20The%20Maximum%20Sum%20In%20A%20Path%20From%20Leaf%20To%20Root)
 - [Flip Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Flip%20Binary%20Tree)
 - [Insertion and Traversal](/DATA%20STRUCTURES/Binary%20Tree/Insertion%20and%20Traversal)
 - [Left , Right and Boundary View](/DATA%20STRUCTURES/Binary%20Tree/Left%20,%20Right%20and%20Boundary%20View)
