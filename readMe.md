@@ -68,6 +68,7 @@ memoization.
 - [Maximum Size Square Sub-Matrix with All 1s](/Maximum%20size%20square%20sub-matrix%20with%20all%201s)
 - [Maximum Size Subset with Given Sum](/Maximum%20Size%20Subset%20with%20Given%20Sum)
 - [Maximum Subsequence Sum](/Maximum%20subsequence%20sum)
+- [Maximum Subset Sum With No Repeating Digits](/Maximum%20Subset%20Sum%20With%20No%20Repeating%20Digits)
 - [Maximum Sum of Pairs with Specific Difference](/Maximum%20sum%20of%20pairs%20with%20specific%20difference)
 - [Minimum Cost to Fill Given Weight in A Bag](/Minimum%20Cost%20to%20Fill%20Given%20Weight%20in%20A%20Bag)
 - [Minimum Insertions to Form a Palindrome](/Minimum%20Insertions%20to%20Form%20a%20Palindrome)
