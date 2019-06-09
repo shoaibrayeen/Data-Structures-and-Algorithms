@@ -4,7 +4,7 @@
 
 ```
 
-The following tree is a perfect binary tree
+The following tree is a complete binary tree
 
                10
            /       \  
@@ -16,7 +16,7 @@ The following tree is a perfect binary tree
                18
            /       \  
          15         30  
-The following tree is not a perfect binary tree
+The following tree is not a complete binary tree
 
       1
     /    \
