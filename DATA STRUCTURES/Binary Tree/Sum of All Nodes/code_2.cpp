@@ -1,5 +1,5 @@
 //
-//  code_1.cpp
+//  code_2.cpp
 //  Data Structure
 //
 //  Created by Mohd Shoaib Rayeen on 19/03/18.
