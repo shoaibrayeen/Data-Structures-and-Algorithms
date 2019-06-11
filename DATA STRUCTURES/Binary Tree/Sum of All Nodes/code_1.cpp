@@ -18,7 +18,7 @@ struct bnode {
 
 class btree {
 public:
-    bnode *root , *root2;
+    bnode *root;
     btree();
     void insert();
     void display();
