@@ -183,6 +183,7 @@ as it determines that the candidate cannot possibly be completed to a valid solu
 - [Hamiltonian Cycle](/Hamiltonian%20Cycle)
 - [N Queen Problem ](/N%20Queen%20Problem)
 - [Power Set in Lexicographical Order](/Power%20Set%20in%20Lexicographic%20order)
+- [Rat in A Maze](/Rat%20in%20A%20Maze)
 - [Remove Invalid Parentheses](/Remove%20Invalid%20Parentheses)
 - [Sudoku](/Sudoku)
 - [The Knight’s Tour Problem](/The%20Knight’s%20Tour%20Problem)
