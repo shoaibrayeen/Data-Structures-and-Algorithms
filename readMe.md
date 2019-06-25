@@ -329,6 +329,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 - [Print Ancestors of A Given Node](/DATA%20STRUCTURES/Binary%20Tree/Print%20Ancestors%20of%20A%20Given%20Node)
 - [Print Level Traversal in Sorted Order](/DATA%20STRUCTURES/Binary%20Tree/Print%20Level%20Traversal%20in%20Sorted%20Order)
 - [Reverse Level Order Traversal](/DATA%20STRUCTURES/Binary%20Tree/Reverse%20Level%20Order%20Traversal)
+- [Sum of All the Parent Node Having Child N](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20All%20the%20Parent%20Node%20Having%20Child%20N)
 - [Sum of All Leaf Nodes of Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20All%20Leaf%20Nodes)
 - [Sum of All Left Leaves](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20All%20Left%20Leaves)
 - [Sum of All Nodes in Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Sum%20of%20All%20Nodes)
