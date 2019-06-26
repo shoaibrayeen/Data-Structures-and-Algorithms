@@ -322,6 +322,7 @@ in a binary tree can have only 2 children, we typically name them the left and r
 - [Level Order Traversal in Spiral Form](/DATA%20STRUCTURES/Binary%20Tree/Level%20Order%20Traversal%20in%20Spiral%20Form)
 - [Kth Ancestor of A Node](/DATA%20STRUCTURES/Binary%20Tree/Kth%20Ancestor%20of%20A%20Node)
 - [Maximum Spiral Sum](/DATA%20STRUCTURES/Binary%20Tree/Maximum%20Spiral%20Sum)
+- [Maximum Value in A Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Maximum%20Value%20in%20A%20Binary%20Tree)
 - [Merge Two Binary Trees By Doing Node Sum](/DATA%20STRUCTURES/Binary%20Tree/Merge%20Two%20Binary%20Trees)
 - [Minimum Value in A Binary Tree](/DATA%20STRUCTURES/Binary%20Tree/Minimum%20Value%20in%20A%20Binary%20Tree)
 - [Number of Binary Trees for Given Preorder Sequence Length](/DATA%20STRUCTURES/Binary%20Tree/Number%20of%20Binary%20Trees%20for%20Given%20Preorder%20Sequence%20Length)
