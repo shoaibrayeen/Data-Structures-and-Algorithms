@@ -185,6 +185,7 @@ as it determines that the candidate cannot possibly be completed to a valid solu
 - [Power Set in Lexicographical Order](/Power%20Set%20in%20Lexicographic%20order)
 - [Rat in A Maze](/Rat%20in%20A%20Maze)
 - [Remove Invalid Parentheses](/Remove%20Invalid%20Parentheses)
+- [Subset Sum Problem](/Subset%20Sum%20Problem)
 - [Sudoku](/Sudoku)
 - [The Knight’s Tour Problem](/The%20Knight’s%20Tour%20Problem)
 
