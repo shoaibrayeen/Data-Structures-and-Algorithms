@@ -218,7 +218,7 @@ algorithms.
 ## Data Structures
 
 <details>
-<summary>Array/Vector/Matrix</summary>
+<summary>Array/Vector</summary>
   
 ```  
     An array is a collection of items stored at contiguous memory locations. The idea is to 
@@ -270,6 +270,21 @@ first element of the array (generally denoted by the name of the array).
 <br>
 </details>
 <br>
+
+<details>
+<summary>Matrix</summary>
+    
+```  
+    Matrix is 2D Array. A matrix is defined as an ordered rectangular array of 
+    numbers. They can be used to represent systems of linear equations
+```
+### Here's some problems and their solution(s):
+- [Print A Given Matrix in Spiral Form](/DATA%20STRUCTURES/Matrix/Print%20A%20Given%20Matrix%20in%20Spiral%20Form)
+
+<br>
+</details>
+<br>
+
 
 <details>
 <summary>Linked List</summary>
