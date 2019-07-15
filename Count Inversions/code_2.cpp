@@ -66,6 +66,6 @@ int main(int argv, char** args) {
     for ( int i = 0; i < n; i++ ) {
         cin >> arr[i];
     }
-    cout << "\nNumber of inversions\t:\t" << mergeSort(arr, 5) << endl;
+    cout << "\nNumber of inversions\t:\t" << mergeSort(arr, n) << endl;
     return 0;
 }
