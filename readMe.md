@@ -181,6 +181,7 @@ as it determines that the candidate cannot possibly be completed to a valid solu
 - [Combinational Sum](/Combinational%20Sum)
 - [Graph Coloring Problem](/Graph%20Coloring%20Problem)
 - [Hamiltonian Cycle](/Hamiltonian%20Cycle)
+- [Minimum Number of Jumps to Reach ( M , N ) From ( 1 , 1 )](./Minimum%20Number%20of%20Jumps%20to%20Reach%20(%20M%20,%20N%20)%20From%20(%201%20,%201%20))
 - [N Queen Problem ](/N%20Queen%20Problem)
 - [Power Set in Lexicographical Order](/Power%20Set%20in%20Lexicographic%20order)
 - [Rat in A Maze](/Rat%20in%20A%20Maze)
