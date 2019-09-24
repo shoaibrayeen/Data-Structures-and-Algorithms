@@ -6,7 +6,7 @@
 //  Copyright © 2018 Shoaib Rayeen. All rights reserved.
 //
 
-#include<bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int binomialCoeff(int n, int k) { 
@@ -18,12 +18,12 @@ int binomialCoeff(int n, int k) {
  
 int main () {
     cout << "\nEnter n\t:\t";
-    int number;
+    int n;
     cin >> n;
     cout << "\nEnter k\t:\t";
     int k;
     cin >> k;
-    cout <<"\nThe result is\t:\t" << binomialCoeff(n,k);
+    cout <<"\nThe result is\t:\t" << binomialCoeff(n, k);
     cout << endl;
     return 0;
 }
