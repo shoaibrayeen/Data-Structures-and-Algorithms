@@ -1,5 +1,6 @@
-## Power set in lexicographical order
-      Input  : abc
+### Power set in lexicographical order
+```
+Input  : abc
       Output : a 
                ab 
                abc 
@@ -7,3 +8,5 @@
                b 
                bc 
                c
+
+```
