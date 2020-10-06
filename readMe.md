@@ -117,7 +117,7 @@ this choice will lead to a globally-optimal solution.
   
 ### Here's some problems and their solution(s):
 
-- [Dijsktra](/Dijsktra)
+- [Dijkstra's Algorithm](/Dijkstra's%20Algorithm)
 - [Find Minimum number of Coins](/Minimum%20number%20of%20Coins)
 - [Fractional Knapsack Problem](/Fractional%20Knapsack%20Problem)
 - [Maximize Array Sum After K Negations](/DATA%20STRUCTURES/Array/Maximize%20Array%20Sum%20After%20K%20Negations)
