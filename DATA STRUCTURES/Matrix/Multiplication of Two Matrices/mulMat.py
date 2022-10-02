@@ -44,5 +44,3 @@ if __name__ == '__main__':
     else:
         # Call matrix_multiplication function
         mulMat(mat1, mat2, R1, R2, C1, C2)
-
-# This code is contributed by Aarti_Rathi
